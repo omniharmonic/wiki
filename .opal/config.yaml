@@ -1,0 +1,26 @@
+# Omniharmonic — OPAL User Configuration
+# Generated: 2026-02-03
+
+mode: personal
+owner: Benjamin Life
+
+schema: schema.yaml
+
+directories:
+  inbox: vault/_inbox
+  staging: vault/_staging
+  index: _index
+  templates: _templates
+  vault: vault
+  wiki: wiki
+
+processing:
+  auto_classify: true
+  auto_preprocess: true
+  confidence_threshold: 0.7
+  require_review: true
+
+publishing:
+  target: wiki
+  generator: quartz
+  auto_publish: false

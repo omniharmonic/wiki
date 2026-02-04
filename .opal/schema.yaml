@@ -1,0 +1,316 @@
+# Omniharmonic Second Brain — Schema Definition
+# Generated: 2026-02-03
+# Mode: Personal Knowledge Management
+
+name: Omniharmonic Second Brain
+description: >
+  Comprehensive personal and professional knowledge management system
+  combining a private command center with a public knowledge wiki.
+owner: Benjamin Life
+
+# ─────────────────────────────────────────────
+# Resource Types
+# ─────────────────────────────────────────────
+
+resource_types:
+
+  # ── Vault (Private) ──
+
+  task:
+    description: Individual actionable item with status and project links
+    zone: vault
+    directory: vault/tasks
+    fields:
+      - name: title
+        type: string
+        required: true
+      - name: status
+        type: enum
+        values: [todo, in-progress, blocked, done]
+        default: todo
+      - name: priority
+        type: enum
+        values: [low, medium, high, urgent]
+        default: medium
+      - name: project
+        type: link
+        target: project
+      - name: assigned
+        type: string
+        default: Benjamin
+      - name: due
+        type: date
+      - name: completed
+        type: date
+      - name: context
+        type: string
+        description: Where this task came from (meeting link, conversation, etc.)
+      - name: tags
+        type: list
+
+  project:
+    description: Project workspace with objectives, status, and team
+    zone: vault
+    directory: vault/projects
+    fields:
+      - name: title
+        type: string
+        required: true
+      - name: status
+        type: enum
+        values: [active, paused, archived, incubating]
+        default: active
+      - name: org
+        type: link
+        target: organization
+      - name: role
+        type: string
+        description: Benjamin's role in this project
+      - name: collaborators
+        type: list
+        target: person
+      - name: url
+        type: url
+      - name: tags
+        type: list
+
+  meeting:
+    description: Meeting notes and transcripts with extracted intelligence
+    zone: vault
+    directory: vault/meetings
+    fields:
+      - name: title
+        type: string
+        required: true
+      - name: date
+        type: datetime
+        required: true
+      - name: projects
+        type: list
+        target: project
+      - name: attendees
+        type: list
+        target: person
+      - name: source
+        type: enum
+        values: [fathom, meetily, otter, read-ai, manual]
+      - name: status
+        type: enum
+        values: [raw, processed, reviewed]
+        default: raw
+      - name: tags
+        type: list
+
+  person:
+    description: Contact profile with relationship context and commitments
+    zone: vault
+    directory: vault/people
+    fields:
+      - name: title
+        type: string
+        required: true
+      - name: role
+        type: string
+      - name: organizations
+        type: list
+        target: organization
+      - name: projects
+        type: list
+        target: project
+      - name: contact
+        type: object
+        fields: [email, phone]
+      - name: location
+        type: string
+      - name: first-met
+        type: string
+      - name: last-contact
+        type: date
+      - name: tags
+        type: list
+
+  organization:
+    description: Organization profile with structure and involvement notes
+    zone: vault
+    directory: vault/organizations
+    fields:
+      - name: title
+        type: string
+        required: true
+      - name: status
+        type: enum
+        values: [active, forming, dormant, archived]
+        default: active
+      - name: url
+        type: url
+      - name: role
+        type: string
+        description: Benjamin's role
+      - name: people
+        type: list
+        target: person
+      - name: projects
+        type: list
+        target: project
+      - name: tags
+        type: list
+
+  # ── Wiki (Public) ──
+
+  concept:
+    description: Public concept definition with wiki-links and references
+    zone: wiki
+    directory: wiki/concepts
+    fields:
+      - name: title
+        type: string
+        required: true
+      - name: visibility
+        type: enum
+        values: [public]
+        default: public
+      - name: aliases
+        type: list
+      - name: related
+        type: list
+        target: concept
+      - name: tags
+        type: list
+      - name: updated
+        type: date
+
+  research:
+    description: Research documents, analysis, and findings
+    zone: wiki
+    directory: wiki/research
+    fields:
+      - name: title
+        type: string
+        required: true
+      - name: visibility
+        type: enum
+        values: [public]
+        default: public
+      - name: status
+        type: enum
+        values: [draft, in-progress, published]
+        default: draft
+      - name: projects
+        type: list
+        target: project
+      - name: tags
+        type: list
+      - name: updated
+        type: date
+
+  writing:
+    description: Published essays, articles, and thought leadership
+    zone: wiki
+    directory: wiki/writing
+    fields:
+      - name: title
+        type: string
+        required: true
+      - name: visibility
+        type: enum
+        values: [public]
+        default: public
+      - name: status
+        type: enum
+        values: [draft, in-progress, published]
+        default: draft
+      - name: publication
+        type: string
+        description: Where published (substack, original, etc.)
+      - name: url
+        type: url
+      - name: tags
+        type: list
+      - name: published
+        type: date
+      - name: updated
+        type: date
+
+# ─────────────────────────────────────────────
+# Relationships
+# ─────────────────────────────────────────────
+
+relationships:
+  - name: has-tasks
+    from: project
+    to: task
+    cardinality: one-to-many
+    traversal: "What needs to be done for this project?"
+
+  - name: discussed-in
+    from: project
+    to: meeting
+    cardinality: one-to-many
+    traversal: "What meetings covered this project?"
+
+  - name: collaborates-with
+    from: project
+    to: person
+    cardinality: many-to-many
+    traversal: "Who is involved in this project?"
+
+  - name: belongs-to
+    from: project
+    to: organization
+    cardinality: many-to-one
+    traversal: "Which organization owns this project?"
+
+  - name: attended-by
+    from: meeting
+    to: person
+    cardinality: many-to-many
+    traversal: "Who was in this meeting?"
+
+  - name: generates
+    from: meeting
+    to: task
+    cardinality: one-to-many
+    traversal: "What action items came from this meeting?"
+
+  - name: member-of
+    from: person
+    to: organization
+    cardinality: many-to-many
+    traversal: "Which organizations is this person part of?"
+
+  - name: related-to
+    from: concept
+    to: concept
+    cardinality: many-to-many
+    traversal: "What concepts connect to this one?"
+
+  - name: explores
+    from: research
+    to: concept
+    cardinality: many-to-many
+    traversal: "What concepts does this research explore?"
+
+# ─────────────────────────────────────────────
+# Dimensions (Cross-cutting categories)
+# ─────────────────────────────────────────────
+
+dimensions:
+  civic_domain:
+    description: Area of civic innovation
+    values:
+      - governance
+      - economic
+      - environmental
+      - social
+      - cultural
+      - technological
+      - educational
+
+  scale:
+    description: Scale of application
+    values:
+      - individual
+      - community
+      - bioregional
+      - network
+      - global

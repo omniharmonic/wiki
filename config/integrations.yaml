@@ -1,0 +1,110 @@
+# Omniharmonic Second Brain — Integration Configuration
+# Generated: 2026-02-03
+
+# ─────────────────────────────────────────────
+# Transcript Sources
+# ─────────────────────────────────────────────
+
+transcript_sources:
+
+  meetily:
+    enabled: true
+    type: local_sqlite
+    description: Local meeting transcription
+    database: ~/.meetily/db.sqlite3
+    sync:
+      schedule: manual
+      new_only: true
+      marker_file: vault/_inbox/meetings/.meetily_synced
+    output:
+      directory: vault/_inbox/meetings
+      filename_pattern: "{date}_{title_slug}"
+    processing:
+      auto_classify: true
+      extract_speakers: true
+
+  fathom:
+    enabled: false
+    type: api
+    description: Video call transcripts
+    api_key_env: FATHOM_API_KEY
+    sync:
+      schedule: manual
+      new_only: true
+    output:
+      directory: vault/_inbox/meetings
+
+  otter:
+    enabled: false
+    type: api
+    description: Meeting transcripts
+    api_key_env: OTTER_API_KEY
+
+  read_ai:
+    enabled: false
+    type: api
+    description: Meeting transcripts
+    api_key_env: READ_AI_API_KEY
+
+# ─────────────────────────────────────────────
+# Google Suite
+# ─────────────────────────────────────────────
+
+google:
+  calendar:
+    enabled: true
+    description: Meeting context enrichment and writeback
+    credentials: google-oauth-credentials.json
+    features:
+      meeting_context: true       # Look up attendees before processing
+      writeback: true             # Write summaries back to events
+      known_speakers: true        # Use attendee names for speaker ID
+
+  # gmail:
+  #   enabled: false
+  #   description: Email ingestion
+
+  # docs:
+  #   enabled: false
+  #   description: Google Docs sync
+
+# ─────────────────────────────────────────────
+# Communication
+# ─────────────────────────────────────────────
+
+telegram:
+  enabled: false
+  type: bot
+  description: Link sharing and monitoring
+  bot_token_env: TELEGRAM_BOT_TOKEN
+  channels: []
+
+# ─────────────────────────────────────────────
+# Content Feeds
+# ─────────────────────────────────────────────
+
+rss:
+  enabled: false
+  feeds: []
+  sync:
+    schedule: manual
+    max_items_per_feed: 10
+
+# ─────────────────────────────────────────────
+# Notion
+# ─────────────────────────────────────────────
+
+notion:
+  enabled: false
+  type: mcp
+  description: Notion workspace integration
+  mode: sync
+  api_key_env: NOTION_API_KEY
+
+# ─────────────────────────────────────────────
+# MCP Server Preferences
+# ─────────────────────────────────────────────
+
+mcp:
+  prefer_mcp: true
+  fallback_to_api: true

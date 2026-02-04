@@ -1,0 +1,83 @@
+# Omniharmonic Second Brain — System Settings
+# Generated: 2026-02-03
+
+# ─────────────────────────────────────────────
+# Core
+# ─────────────────────────────────────────────
+
+mode: personal
+name: Omniharmonic Second Brain
+owner: Benjamin Life
+
+# ─────────────────────────────────────────────
+# Processing
+# ─────────────────────────────────────────────
+
+processing:
+  auto_classify: true
+  auto_preprocess: true
+  confidence:
+    high: 0.9      # Auto-apply
+    medium: 0.7    # Stage for review
+    low: 0.5       # Flag for manual review
+  batch:
+    max_items: 20
+    parallel: false
+
+# ─────────────────────────────────────────────
+# Entity Index
+# ─────────────────────────────────────────────
+
+entity_index:
+  deduplication:
+    fuzzy_threshold: 3        # Levenshtein distance
+    min_length_for_fuzzy: 8
+    semantic_matching: true
+  reconciliation:
+    auto_merge_threshold: 0.9
+    review_threshold: 0.7
+
+# ─────────────────────────────────────────────
+# Directories
+# ─────────────────────────────────────────────
+
+directories:
+  inbox: vault/_inbox
+  staging: vault/_staging
+  index: _index
+  templates: _templates
+
+  # Content zones
+  vault: vault
+  wiki: wiki
+
+  # Vault subdirectories
+  projects: vault/projects
+  tasks: vault/tasks
+  meetings: vault/meetings
+  people: vault/people
+  organizations: vault/organizations
+  drafts: vault/_drafts
+
+  # Wiki subdirectories
+  writing: wiki/writing
+  concepts: wiki/concepts
+  research: wiki/research
+  wiki_projects: wiki/projects
+  about: wiki/about
+
+# ─────────────────────────────────────────────
+# Schema
+# ─────────────────────────────────────────────
+
+schema:
+  path: .opal/schema.yaml
+
+# ─────────────────────────────────────────────
+# Logging
+# ─────────────────────────────────────────────
+
+logging:
+  level: info
+  rotation: weekly
+  max_files: 4

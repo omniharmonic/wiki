@@ -1,0 +1,58 @@
+# Omniharmonic Second Brain — Publishing Configuration
+# Generated: 2026-02-03
+
+# ─────────────────────────────────────────────
+# Static Site Generator
+# ─────────────────────────────────────────────
+
+generator: quartz
+
+site:
+  title: Omniharmonic
+  description: Knowledge, patterns, and protocols for a world that works for all
+  author: Benjamin Life
+  url: https://www.omniharmonic.com
+  language: en
+
+# ─────────────────────────────────────────────
+# Content Source
+# ─────────────────────────────────────────────
+
+source:
+  directory: wiki
+  include:
+    - "**/*.md"
+  exclude:
+    - "_*"
+    - ".*"
+
+# ─────────────────────────────────────────────
+# Build
+# ─────────────────────────────────────────────
+
+build:
+  output: _site
+  features:
+    graph: true           # Interactive knowledge graph
+    search: true          # Full-text search
+    backlinks: true       # Show what links to this page
+    explorer: true        # File tree sidebar
+    toc: true             # Table of contents
+
+# ─────────────────────────────────────────────
+# Deployment
+# ─────────────────────────────────────────────
+
+deploy:
+  method: github_pages
+  repository: omniharmonic/omniharmonic.github.io
+  branch: main
+  auto_deploy: false
+
+# ─────────────────────────────────────────────
+# Preview
+# ─────────────────────────────────────────────
+
+preview:
+  port: 8080
+  live_reload: true

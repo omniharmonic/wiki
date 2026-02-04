@@ -1,0 +1,75 @@
+# ═══════════════════════════════════════════════
+# Omniharmonic Second Brain — .gitignore
+# ═══════════════════════════════════════════════
+
+# ── PRIVATE VAULT (NEVER PUBLISH) ──────────────
+vault/
+
+# ── SECRETS & CREDENTIALS ──────────────────────
+*.local
+*.local.*
+secrets.*
+.env
+.env.*
+google-oauth-credentials.json
+*.key
+*.pem
+*.p12
+
+# ── OPAL INTERNALS ────────────────────────────
+_index/
+_site/
+
+# ── AUDIO & VIDEO (too large for git) ─────────
+*.mp3
+*.mp4
+*.wav
+*.m4a
+*.ogg
+*.webm
+*.avi
+*.mov
+
+# ── LARGE BINARIES ────────────────────────────
+*.pdf
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# ── EMBEDDINGS & VECTOR STORES ────────────────
+*.faiss
+*.pkl
+*.npy
+embeddings/
+chromadb/
+
+# ── LOCAL EDITOR CONFIG ──────────────────────
+.obsidian/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# ── DEPENDENCIES ──────────────────────────────
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ── LOGS ──────────────────────────────────────
+*.log
+logs/
+
+# ── LEGACY & LOCAL-ONLY ─────────────────────
+# Keep in Drive but don't track in git
+hyperflow/
+opal/
+.claude.backup/
+Benjamin_Life.md
+Front Range Bioregional Organizing Notes.md
+docs/
