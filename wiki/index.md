@@ -1,8 +1,6 @@
 ---
-title: omniharmonic
+title:
 ---
-
-# omniharmonic
 
 > *"It's not the note you play that's the wrong note. It's the note you play afterwards that makes it right or wrong."* — Miles Davis
 
@@ -32,7 +30,7 @@ Browse all essays in the [[writing/|Writing]] section.
 - [[concepts/meta-crisis|Meta-Crisis]] — The interconnected web of civilizational crises
 - [[concepts/interbeing|Interbeing]] — Fundamental interconnectedness of all phenomena
 
-Browse all 40 concepts in the [[concepts/|Concepts]] section.
+Browse all 88 concepts in the [[concepts/|Concepts]] section.
 
 ### Projects
 - [[projects/opencivics|OpenCivics]] — Civic innovation and participatory democracy

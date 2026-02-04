@@ -28,8 +28,11 @@ PageTitle.css = `
   gap: 0.5rem;
 }
 .page-logo {
-  height: 1.8rem;
+  height: 1.4em;
+  max-height: 1.4em;
   width: auto;
+  max-width: 1.4em;
+  object-fit: contain;
 }
 `
 

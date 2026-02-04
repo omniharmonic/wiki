@@ -22,4 +22,4 @@ Wetiko connects to the [[story-of-separation]] as the ontological ground that ma
 - [[writing/and-the-spells-shall-break|And The Spells Shall Break]]
 - [[writing/the-christ-meme|The Christ Meme]]
 - [[writing/a-brief-reflection-on-legacy|A Brief Reflection On Legacy]]
-- [[writing/story-of-separation|The Ancient Future Ancestor's Story]]
+- [[writing/the-ancient-future-ancestors-story|The Ancient Future Ancestor's Story]]
