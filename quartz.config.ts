@@ -10,7 +10,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "wiki.omniharmonic.com",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "_inbox"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

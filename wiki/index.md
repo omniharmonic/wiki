@@ -10,11 +10,29 @@ Welcome to the **Omniharmonic Wiki** — a living knowledge base for civic innov
 
 ## Explore
 
+### Writing
+- [[writing/a-regenerative-accelerationist-manifesto|A Regenerative Accelerationist Manifesto]] — Technology, ecology, and post-capitalist futures
+- [[writing/citizen|Citizen]] — A vision for participatory governance and civic infrastructure
+- [[writing/fork-you|Fork You!]] — On forking governance and building plural civic systems
+- [[writing/compost-capital-or-die|Compost Capital or Die]] — Transforming extractive capital into regenerative wealth
+- [[writing/when-democracy-dies|When Democracy Dies]] — Recursive sovereignty and bioregional alternatives
+- [[writing/collapse-parallel-societies-bioregional-imperative|Collapse, Parallel Societies, and the Bioregional Imperative]]
+- [[writing/the-emergence-of-the-well-being-economy|The Emergence of the Well-Being Economy]]
+- [[writing/civic-vibe-coding-localism|Civic Vibe Coding Localism]] — AI-assisted tools for community self-determination
+
+Browse all essays in the [[writing/|Writing]] section.
+
 ### Concepts
 - [[concepts/bioregionalism|Bioregionalism]] — Ecological boundaries as natural units of governance
 - [[concepts/cosmolocalism|Cosmolocalism]] — What is heavy is local; what is light is global
 - [[concepts/polycentric-governance|Polycentric Governance]] — Nested decision-making at the scale of impact
 - [[concepts/commons-governance|Commons Governance]] — Shared stewardship without capture
+- [[concepts/metamodernism|Metamodernism]] — Post-postmodern worldview embracing paradox and complexity
+- [[concepts/regenerative-economics|Regenerative Economics]] — Economic systems that restore and renew
+- [[concepts/meta-crisis|Meta-Crisis]] — The interconnected web of civilizational crises
+- [[concepts/interbeing|Interbeing]] — Fundamental interconnectedness of all phenomena
+
+Browse all 40 concepts in the [[concepts/|Concepts]] section.
 
 ### Projects
 - [[projects/opencivics|OpenCivics]] — Civic innovation and participatory democracy
