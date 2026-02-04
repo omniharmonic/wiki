@@ -1,10 +1,10 @@
 ---
-title:
+title: Welcome
 ---
 
 > *"It's not the note you play that's the wrong note. It's the note you play afterwards that makes it right or wrong."* — Miles Davis
 
-Welcome to the **omniharmonic wiki** — a living knowledge base exploring coordination patterns that dissolve false separations between systems. Activate and harmonize.
+**omniharmonic** is a research and writing project by [[about/index|Benjamin Life]] exploring how fragmented modern systems might achieve polyphonic coherence — not the imposed harmony of a conductor forcing consensus, but the emergent harmony of a jazz ensemble where each player's improvisations create something none could achieve alone. This wiki is its public knowledge base: a growing library of essays, interconnected concept pages, and project documentation spanning bioregional governance, regenerative economics, cosmolocal production, and the cultural shifts that make them possible.
 
 ## Explore
 
@@ -14,8 +14,8 @@ Welcome to the **omniharmonic wiki** — a living knowledge base exploring coord
 - [[writing/fork-you|Fork You!]] — On forking governance and building plural civic systems
 - [[writing/compost-capital-or-die|Compost Capital or Die]] — Transforming extractive capital into regenerative wealth
 - [[writing/when-democracy-dies|When Democracy Dies]] — Recursive sovereignty and bioregional alternatives
-- [[writing/collapse-parallel-societies-bioregional-imperative|Collapse, Parallel Societies, and the Bioregional Imperative]]
-- [[writing/the-emergence-of-the-well-being-economy|The Emergence of the Well-Being Economy]]
+- [[writing/collapse-parallel-societies-bioregional-imperative|Collapse, Parallel Societies, and the Bioregional Imperative]] — Building parallel systems as institutions fail
+- [[writing/the-emergence-of-the-well-being-economy|The Emergence of the Well-Being Economy]] — Beyond GDP toward flourishing as the measure of progress
 - [[writing/civic-vibe-coding-localism|Civic Vibe Coding Localism]] — AI-assisted tools for community self-determination
 
 Browse all essays in the [[writing/|Writing]] section.
