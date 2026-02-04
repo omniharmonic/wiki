@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Omniharmonic",
+    pageTitle: "omniharmonic",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,

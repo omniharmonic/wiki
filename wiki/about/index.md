@@ -4,39 +4,42 @@ type: page
 visibility: public
 ---
 
-# Benjamin Life
+# About
 
-> *"Not the imposed harmony of a conductor forcing consensus, but the emergent harmony of a jazz ensemble — where each player's improvisations create something none could achieve alone."*
+## Benjamin Life
 
-## Who I Am
+Civic innovator, researcher, and artist working at the intersection of regenerative crypto-economics, [[concepts/bioregionalism|bioregional]] coordination, and governance systems design. Based in Boulder, Colorado. Benjamin is a verb.
 
-Civic innovator, systems thinker, and bioregional organizer based in Boulder, Colorado. I work at the intersection of participatory governance, regenerative economics, and community coordination — building infrastructure for a world that works for all.
+---
 
-## What I Do
+## omniharmonic
 
-- **[[wiki/projects/opencivics|OpenCivics]]** — Co-Founder. A consortium for civic innovation and participatory democracy systems.
-- **[[wiki/projects/localism-fund|Localism Fund]]** — Co-Steward. Participatory grant funding for place-based work.
-- **[[wiki/projects/regen-commons|Regen Commons]]** — Co-Founder. Regenerative commons coordination.
-- **Spirit of the Front Range** — Bioregional organizer for Colorado's Front Range.
+> *"It's not the note you play that's the wrong note. It's the note you play afterwards that makes it right or wrong."* — Miles Davis
 
-## The Animating Question
+omniharmonic examines how fragmented modern systems might achieve polyphonic coherence — not the imposed harmony of a conductor forcing consensus, but the emergent harmony of a jazz ensemble where each player's improvisations create something none could achieve alone.
 
-Since age twelve, I've asked the same question:
+### Post-Tragic Approach
 
-> *"Why is the world so full of suffering and why haven't we collectively chosen to create a more beautiful one?"*
+The essays here acknowledge institutional breakdown and cascading crises while exploring how collapse creates space for alternative organizing logics. This includes [[concepts/bioregionalism|bioregional]] networks, [[concepts/quadratic-funding|quadratic funding]] mechanisms, [[concepts/commons-governance|commons governance]], and [[concepts/cosmolocalism|cosmolocal]] production patterns.
 
-This question drives everything — through documentary filmmaking, virtual reality, international development, and now civic innovation. The answer I've arrived at: **systems, not souls.** Transformation happens by changing incentive structures and coordination mechanisms, not by changing individual minds.
+### Systems Integration
 
-## Core Frameworks
+This work traces how forests coordinate nutrient distribution, information sharing, and defense through mycelial networks — demonstrating how economy, communication, and governance can operate as unified systems rather than separate domains.
 
-- [[wiki/concepts/bioregionalism|Bioregionalism]] — Ecological boundaries as natural units of governance
-- [[wiki/concepts/cosmolocalism|Cosmolocalism]] — What is heavy is local; what is light is global
-- [[wiki/concepts/polycentric-governance|Polycentric Governance]] — Nested decision-making at the scale of impact
-- [[wiki/concepts/commons-governance|Commons Governance]] — Shared stewardship without capture
+### Deep Listening
+
+omniharmonic emphasizes reinhabitation — perceiving the living systems we're embedded within and treating watersheds, soil communities, and seasonal rhythms as relationships to tend rather than resources to extract.
+
+---
+
+## This Wiki
+
+This wiki is the public knowledge base for omniharmonic — a companion to the [Substack](https://omniharmonic.substack.com) and [main site](https://www.omniharmonic.com). It contains the full archive of [[writing/|essays]], a growing library of [[concepts/|concept]] pages exploring the ideas within them, and documentation of active [[projects/|projects]].
+
+The wiki is a living document. Concepts link to essays, essays link to concepts, and the knowledge graph grows with each piece of writing.
 
 ## Connect
 
-- Writing: [omniharmonic.substack.com](https://omniharmonic.substack.com)
+- Newsletter: [omniharmonic.substack.com](https://omniharmonic.substack.com)
 - Web: [omniharmonic.com](https://www.omniharmonic.com)
 - Code: [github.com/omniharmonic](https://github.com/omniharmonic)
-- Email: synergy@benjaminlife.one

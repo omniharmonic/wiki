@@ -1,12 +1,12 @@
 ---
-title: Omniharmonic
+title: omniharmonic
 ---
 
-# Omniharmonic
+# omniharmonic
 
-> *"Not the imposed harmony of a conductor forcing consensus, but the emergent harmony of a jazz ensemble — where each player's improvisations create something none could achieve alone."*
+> *"It's not the note you play that's the wrong note. It's the note you play afterwards that makes it right or wrong."* — Miles Davis
 
-Welcome to the **Omniharmonic Wiki** — a living knowledge base for civic innovation, bioregional organizing, and regenerative systems design.
+Welcome to the **omniharmonic wiki** — a living knowledge base exploring coordination patterns that dissolve false separations between systems. Activate and harmonize.
 
 ## Explore
 
@@ -40,5 +40,5 @@ Browse all 40 concepts in the [[concepts/|Concepts]] section.
 - [[projects/regen-commons|Regen Commons]] — Regenerative commons coordination
 
 ### About
-- [[about/index|About Benjamin Life]]
-- [[about/colophon|How this wiki is built]]
+- [[about/index|About]] — omniharmonic and Benjamin Life
+- [[about/colophon|Colophon]] — How this wiki is built
