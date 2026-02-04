@@ -20,6 +20,10 @@ google-oauth-credentials.json
 _index/
 _site/
 
+# ── QUARTZ BUILD OUTPUT ─────────────────────
+public/
+.quartz-cache/
+
 # ── AUDIO & VIDEO (too large for git) ─────────
 *.mp3
 *.mp4
