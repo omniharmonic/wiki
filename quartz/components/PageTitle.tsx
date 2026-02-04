@@ -26,6 +26,7 @@ PageTitle.css = `
   display: flex;
   align-items: center;
   gap: 0.5rem;
+  color: var(--dark);
 }
 .page-logo {
   height: 1.4em;
