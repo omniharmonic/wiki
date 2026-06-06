@@ -9,13 +9,15 @@ title: Welcome
 ## Explore
 
 ### Writing
+- [[writing/the-solarpunk-revolution-is-inevitable|The Solarpunk Revolution Is Inevitable]] — How AI's acceleration of capitalism's contradictions makes deep change inevitable
+- [[writing/sovereignty-is-solidarity|Sovereignty Is Solidarity]] — Why the sovereign self and the solidarity of the collective are one phenomenon
+- [[writing/upward-spiral-economics|Upward Spiral Economics]] — Networked cooperatives and solidarity economies that outcompete extraction
+- [[writing/protocols-of-place|Protocols of Place]] — Open protocol libraries as the social DNA of resilient communities
 - [[writing/a-regenerative-accelerationist-manifesto|A Regenerative Accelerationist Manifesto]] — Technology, ecology, and post-capitalist futures
 - [[writing/citizen|Citizen]] — A vision for participatory governance and civic infrastructure
 - [[writing/fork-you|Fork You!]] — On forking governance and building plural civic systems
 - [[writing/compost-capital-or-die|Compost Capital or Die]] — Transforming extractive capital into regenerative wealth
-- [[writing/when-democracy-dies|When Democracy Dies]] — Recursive sovereignty and bioregional alternatives
 - [[writing/collapse-parallel-societies-bioregional-imperative|Collapse, Parallel Societies, and the Bioregional Imperative]] — Building parallel systems as institutions fail
-- [[writing/the-emergence-of-the-well-being-economy|The Emergence of the Well-Being Economy]] — Beyond GDP toward flourishing as the measure of progress
 - [[writing/civic-vibe-coding-localism|Civic Vibe Coding Localism]] — AI-assisted tools for community self-determination
 
 Browse all essays in the [[writing/|Writing]] section.
@@ -30,7 +32,7 @@ Browse all essays in the [[writing/|Writing]] section.
 - [[concepts/meta-crisis|Meta-Crisis]] — The interconnected web of civilizational crises
 - [[concepts/interbeing|Interbeing]] — Fundamental interconnectedness of all phenomena
 
-Browse all 88 concepts in the [[concepts/|Concepts]] section.
+Browse all 109 concepts in the [[concepts/|Concepts]] section.
 
 ### Projects
 - [[projects/opencivics|OpenCivics]] — Civic innovation and participatory democracy
