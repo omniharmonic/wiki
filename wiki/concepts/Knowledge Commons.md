@@ -67,7 +67,7 @@ Recent developments in [[wiki/concepts/AI|AI]] and [[wiki/concepts/Vector Embedd
 
 ### DIY Protocol Librarian Stack
 
-**Proposed workflow** (from [[vault/_staging/meetings/2026-02-10-spirit-duna-formation|Spirit meeting]]):
+**Proposed workflow** (from Spirit meeting):
 
 1. **Recording**: Phone, audio recorder, video call → capture elder interview, practitioner knowledge
 2. **Transcription**: Whisper or similar tool → convert audio to text
@@ -80,13 +80,11 @@ Recent developments in [[wiki/concepts/AI|AI]] and [[wiki/concepts/Vector Embedd
 
 ### Bioregional Coordination
 
-**Example**: [[vault/projects/spirit-of-the-front-range|Spirit of the Front Range]] + [[wiki/concepts/Cascadia Bioregional Movement|Cascadia]]
+**Example**: Spirit of the Front Range + [[wiki/concepts/Cascadia Bioregional Movement|Cascadia]]
 - Both regions capture local agricultural knowledge (climate, soil, growing practices)
 - Agents federate patterns between regions
 - Each maintains local taxonomy, agents translate
 - Shared learning without imposed standardization
-
-**See**: [[vault/_staging/meetings/2026-02-10-spirit-duna-formation]] for knowledge commons infrastructure discussion
 
 ### Civic Transparency
 
@@ -96,17 +94,13 @@ Recent developments in [[wiki/concepts/AI|AI]] and [[wiki/concepts/Vector Embedd
 - Transcripts + minutes + press reports (multiple perspectives)
 - **Vision**: "If every city had this, collective insights could talk together"
 
-**See**: [[vault/_staging/meetings/2026-02-10-heenal-rajani-opencivics-collaboration]] for Open Council details
-
 ### Open Protocol Libraries
 
-**Example**: [[vault/projects/opencivics|OpenCivics]] + [[vault/organizations/Super Benefit]]
+**Example**: OpenCivics + Super Benefit
 - Shared repositories of civic coordination patterns
 - Agent-mediated federation between repos
 - Meta-index (not meta-repo) approach
 - Bridge schemas enable translation without universal standard
-
-**See**: [[vault/_staging/meetings/2026-02-10-heenal-rajani-opencivics-collaboration]] for protocol federation discussion
 
 ## Technical Architecture
 
@@ -143,7 +137,7 @@ Recent developments in [[wiki/concepts/AI|AI]] and [[wiki/concepts/Vector Embedd
 
 ## Eleanor Ostrom's "Knowledge as a Commons"
 
-**Context**: [[vault/people/Eleanor Ostrom|Eleanor Ostrom]] extended commons theory beyond physical resources (fisheries, forests) to knowledge itself
+**Context**: Eleanor Ostrom extended commons theory beyond physical resources (fisheries, forests) to knowledge itself
 
 **Key insight**: Knowledge exhibits commons characteristics:
 - Non-rivalrous (use doesn't deplete)
@@ -230,12 +224,10 @@ Recent developments in [[wiki/concepts/AI|AI]] and [[wiki/concepts/Vector Embedd
 - [[wiki/concepts/Meta-Index]] - Registry approach vs meta-repo
 - [[wiki/concepts/Bridge Schemas]] - Translation between taxonomies
 - [[wiki/concepts/RAG]] (Retrieval-Augmented Generation) - AI technique for queryable archives
-- [[wiki/concepts/Open Protocols]] - Shared standards for coordination
+- [[wiki/concepts/protocols|Open Protocols]] - Shared standards for coordination
 
 ## References
 
-- [[vault/_staging/meetings/2026-02-10-spirit-duna-formation]] - Knowledge commons infrastructure planning
-- [[vault/_staging/meetings/2026-02-10-heenal-rajani-opencivics-collaboration]] - Federation approach and Open Council
 - Eleanor Ostrom, "Knowledge as a Commons" (edited volume)
-- [[vault/projects/opencivics|OpenCivics]] - Applied knowledge commons work
+- OpenCivics - Applied knowledge commons work
 

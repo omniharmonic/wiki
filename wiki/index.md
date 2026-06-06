@@ -32,7 +32,7 @@ Browse all essays in the [[writing/|Writing]] section.
 - [[concepts/meta-crisis|Meta-Crisis]] — The interconnected web of civilizational crises
 - [[concepts/interbeing|Interbeing]] — Fundamental interconnectedness of all phenomena
 
-Browse all 109 concepts in the [[concepts/|Concepts]] section.
+Browse all 120 concepts in the [[concepts/|Concepts]] section.
 
 ### Projects
 - [[projects/opencivics|OpenCivics]] — Civic innovation and participatory democracy

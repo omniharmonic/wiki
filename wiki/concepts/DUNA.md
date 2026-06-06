@@ -4,7 +4,7 @@ type: concept
 visibility: public
 aliases: [Decentralized Unincorporated Network Association]
 related:
-  - "[[wiki/concepts/Commons]]"
+  - "[[wiki/concepts/commons-governance|Commons]]"
   - "[[wiki/concepts/Bioregional Coordination]]"
   - "[[wiki/concepts/Unincorporated Association]]"
 tags: [governance, legal, commons, decentralization]
@@ -42,11 +42,11 @@ DUNAs provide a lightweight legal structure for commons-based organizations and 
 
 ## Related Concepts
 
-- [[wiki/concepts/Commons]] - Resource governance by communities
+- [[wiki/concepts/commons-governance|Commons]] - Resource governance by communities
 - [[wiki/concepts/Bioregional Coordination]] - Place-based organizing
-- [[wiki/concepts/Subsidiarity]] - Decision-making at appropriate scale
+- [[wiki/concepts/subsidiarity]] - Decision-making at appropriate scale
 
 ## References
 
 - Wyoming DUNA legislation
-- [[vault/organizations/Spirit of the Front Range]] - Example implementation
+- Spirit of the Front Range - Example implementation

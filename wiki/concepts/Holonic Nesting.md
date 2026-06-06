@@ -52,7 +52,7 @@ The [[wiki/concepts/Knowledge Organizational Infrastructure|COI protocol]] is ex
 
 ## Origin
 
-The term "holon" was coined by Arthur Koestler in *The Ghost in the Machine* (1967). Applied extensively in integral theory (Ken Wilber) and systems thinking. In bioregional knowledge commons, the framing was articulated by [[vault/people/Darren Zal|Darren Zal]] at the [[vault/projects/opencivics/meetings/2026-02-17/opencivics-biweekly-general-assembly-na-europe|Feb 17 OpenCivics Network Assembly]].
+The term "holon" was coined by Arthur Koestler in *The Ghost in the Machine* (1967). Applied extensively in integral theory (Ken Wilber) and systems thinking. In bioregional knowledge commons, the framing was articulated by Darren Zal at the Feb 17 OpenCivics Network Assembly.
 
 ## References
 

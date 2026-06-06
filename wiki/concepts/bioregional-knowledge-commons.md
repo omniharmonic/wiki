@@ -68,16 +68,16 @@ Traditional platforms can't solve bioregional knowledge sharing because:
 
 ## Temporal Layer
 
-A key challenge (raised by [[vault/people/CdV Saizan|CdV Saizan]] at OpenCivics Network Assembly, Feb 2026): How do we build in a **temporal ontology** so knowledge relevant to summer planting or winter ceremonies surfaces at the right time? Indigenous cultures elegantly embedded timing into knowledge systems.
+A key challenge (raised by CdV Saizan at OpenCivics Network Assembly, Feb 2026): How do we build in a **temporal ontology** so knowledge relevant to summer planting or winter ceremonies surfaces at the right time? Indigenous cultures elegantly embedded timing into knowledge systems.
 
 ## Related Work
 
-- [[vault/organizations/Symbiocene Labs]] — building knowledge commons infrastructure with Regen Network
-- [[vault/organizations/Regenerate Cascadia]] — pioneering bioregional organizing in Pacific Northwest
-- [[vault/projects/opencivics]] — Open Protocol Library as first delivery to OpenCivics
+- Symbiocene Labs — building knowledge commons infrastructure with Regen Network
+- Regenerate Cascadia — pioneering bioregional organizing in Pacific Northwest
+- opencivics — Open Protocol Library as first delivery to OpenCivics
 - Front Range × Cascadia pilot project (Darren Zal + Shawn Anderson + Benjamin)
 
 ## References
 
-- First substantively introduced in [[vault/projects/opencivics/meetings/2026-02-17/opencivics-biweekly-general-assembly-na-europe|Feb 17 OpenCivics Network Assembly]] via presentation by [[vault/people/Darren Zal|Darren Zal]]
+- First substantively introduced in Feb 17 OpenCivics Network Assembly via presentation by Darren Zal
 - Bioregional Knowledge Commons Community of Practice (Bill Bowie, Simon Grant, et al.)

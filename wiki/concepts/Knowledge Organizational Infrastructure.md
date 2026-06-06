@@ -55,11 +55,11 @@ COI operates through a **holonically nested, stigmergic** architecture:
 
 ## Current Implementations
 
-- [[vault/organizations/Symbiocene Labs]] using COI for [[vault/organizations/Regen Network]] knowledge management
+- Symbiocene Labs using COI for Regen Network knowledge management
 - Darren Zal's Salish Sea agent + Shawn Anderson's Cowichan Valley agent sharing via COI
 - Front Range × Cascadia pilot project
 
 ## References
 
 - Developed by Block Science
-- First introduced to OpenCivics via [[vault/people/Darren Zal|Darren Zal]]'s presentation at [[vault/projects/opencivics/meetings/2026-02-17/opencivics-biweekly-general-assembly-na-europe|Feb 17 OpenCivics Network Assembly]]
+- First introduced to OpenCivics via Darren Zal's presentation at Feb 17 OpenCivics Network Assembly
