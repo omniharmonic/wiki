@@ -9,12 +9,12 @@ aliases:
   - "Cascadia watershed governance"
   - "Regenerate Cascadia movement"
 related:
-  - "[[wiki/concepts/bioregionalism]]"
-  - "[[wiki/concepts/bioregional-knowledge-commons]]"
-  - "[[wiki/concepts/cosmolocalism]]"
-  - "[[wiki/concepts/commons-governance]]"
-  - "[[wiki/concepts/polycentric-governance]]"
-  - "[[wiki/concepts/Knowledge Organizational Infrastructure]]"
+  - "[[concepts/bioregionalism]]"
+  - "[[concepts/bioregional-knowledge-commons]]"
+  - "[[concepts/cosmolocalism]]"
+  - "[[concepts/commons-governance]]"
+  - "[[concepts/polycentric-governance]]"
+  - "[[concepts/Knowledge Organizational Infrastructure]]"
   - "[[bioregional-coordination-sacred-work]]"
   - "[[collapse-parallel-societies-bioregional-imperative]]"
 tags:
@@ -34,7 +34,7 @@ The Cascadia Bioregional Movement is a 40+ year-old socio-political project that
 
 ## Origins and Praxis
 
-The movement traces to the 1980s–90s bioregional congresses, which Benjamin describes as "laboratories for reimagining democracy from the ground up" — grounded in watersheds rather than the arbitrary political lines inherited from colonial history. Its contemporary praxis emphasizes watershed-based governance, post-ideological coordination rooted in material interdependence, and [[wiki/concepts/cosmolocalism|cosmolocal]] knowledge sharing: global knowledge flowing freely while implementation stays local.
+The movement traces to the 1980s–90s bioregional congresses, which Benjamin describes as "laboratories for reimagining democracy from the ground up" — grounded in watersheds rather than the arbitrary political lines inherited from colonial history. Its contemporary praxis emphasizes watershed-based governance, post-ideological coordination rooted in material interdependence, and [[concepts/cosmolocalism|cosmolocal]] knowledge sharing: global knowledge flowing freely while implementation stays local.
 
 The underlying logic is forced solidarity: you cannot exit a watershed. Because everyone sharing a watershed is materially bound to one another, that shared dependence creates the conditions for coordination across otherwise irreconcilable ideological divides.
 
@@ -46,4 +46,4 @@ This connects the movement to a broader practice of restoring civic culture thro
 
 ## In Benjamin's Work
 
-Benjamin is actively involved through a Front Range × Cascadia pilot testing [[wiki/concepts/Knowledge Organizational Infrastructure|Knowledge Organizational Infrastructure]] for federated [[wiki/concepts/bioregional-knowledge-commons|bioregional knowledge commoning]]. The movement appears throughout his writing on [[bioregional-coordination-sacred-work|bioregional coordination as sacred work]] and the [[collapse-parallel-societies-bioregional-imperative|bioregional imperative]] in the face of institutional collapse, and informs his thinking on protocols of place and [[wiki/concepts/commons-governance|commons governance]].
+Benjamin is actively involved through a Front Range × Cascadia pilot testing [[concepts/Knowledge Organizational Infrastructure|Knowledge Organizational Infrastructure]] for federated [[concepts/bioregional-knowledge-commons|bioregional knowledge commoning]]. The movement appears throughout his writing on [[bioregional-coordination-sacred-work|bioregional coordination as sacred work]] and the [[collapse-parallel-societies-bioregional-imperative|bioregional imperative]] in the face of institutional collapse, and informs his thinking on protocols of place and [[concepts/commons-governance|commons governance]].

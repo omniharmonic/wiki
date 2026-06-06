@@ -25,7 +25,7 @@ related:
 
 # Upward Spiral Economics
 
-*This piece is inspired by and dedicated to my peers in the applied theory of [[wiki/concepts/regenerative-economics|regenerative economics]]: Gregory Wendt, Kaitlin Archambault, Samantha Power, John Fullerton, Indy Johar, Gregory Landua, Austin Wade Smith, Stuart Cowan, Ferananda Ibarra, Scott Morris, Pete Corke, Kevin Owocki, Michel Bauwens, and others.*
+*This piece is inspired by and dedicated to my peers in the applied theory of [[concepts/regenerative-economics|regenerative economics]]: Gregory Wendt, Kaitlin Archambault, Samantha Power, John Fullerton, Indy Johar, Gregory Landua, Austin Wade Smith, Stuart Cowan, Ferananda Ibarra, Scott Morris, Pete Corke, Kevin Owocki, Michel Bauwens, and others.*
 
 ---
 
@@ -53,9 +53,9 @@ If extraction is the disease, what is the cure? It begins with a recognition so 
 
 Not value as Wall Street defines it: the price at which an asset can be liquidated. Value as in the genuine wealth that emerges when human beings coordinate, create, care, build, teach, feed, and tend. This kind of value doesn’t exist in isolation. It exists in the space between people, between a community and its watershed, between a worker and the meaning they find in their labor. Value, understood at the level of first principles, is a property of relationships.
 
-There are ethical ways to create value and to share in the benefits of that value. Ways that don’t require someone to lose for someone else to win. Ways that don’t treat the biosphere as a balance sheet to be drawn down. The entire field of regenerative economics has spent decades articulating these principles. What this essay aims to add to that discourse is the synthesis of regenerative economics and bioregional economic re-localization, advocating for the [[wiki/concepts/networked-cooperativism|networked cooperative]] as the primary *structural mechanism* capable of operationalizing relational value at the scale required to compete with extraction.
+There are ethical ways to create value and to share in the benefits of that value. Ways that don’t require someone to lose for someone else to win. Ways that don’t treat the biosphere as a balance sheet to be drawn down. The entire field of regenerative economics has spent decades articulating these principles. What this essay aims to add to that discourse is the synthesis of regenerative economics and bioregional economic re-localization, advocating for the [[concepts/networked-cooperativism|networked cooperative]] as the primary *structural mechanism* capable of operationalizing relational value at the scale required to compete with extraction.
 
-The networked cooperative is a series of cooperatives federated into [[wiki/concepts/solidarity-economy|solidarity economies]] that generate recursive, self-reinforcing dynamics through network effects. Whereas capitalism reinforces accumulation, networked cooperativism reinforces mutual benefit.
+The networked cooperative is a series of cooperatives federated into [[concepts/solidarity-economy|solidarity economies]] that generate recursive, self-reinforcing dynamics through network effects. Whereas capitalism reinforces accumulation, networked cooperativism reinforces mutual benefit.
 
 ## **The Cooperative as Structural Inversion**
 
@@ -93,7 +93,7 @@ Here is the thesis at the heart of this essay: solidarity economies built on coo
 
 Through the positive-sum relationships that become possible when we cease to see each other as rational economic actors competing for zero-sum benefit at each other’s expense and start to see the people around us as potential collaborators capable of generating mutual benefit. Benefit that is shared holistically and governed democratically.
 
-The upward spiral works like this: cooperative enterprises generate revenue. That revenue is distributed to [[wiki/concepts/worker-cooperatives|worker-owners]], increasing household prosperity. Some portion returns to the cooperative network, capitalizing new ventures. New cooperatives create new employment, new goods, new services, expanding the local economy. As network density increases, more value circulates internally rather than leaking to external shareholders. This circulation multiplies effective wealth. Communities become more resilient. People become more invested, literally and figuratively, in each other’s success.
+The upward spiral works like this: cooperative enterprises generate revenue. That revenue is distributed to [[concepts/worker-cooperatives|worker-owners]], increasing household prosperity. Some portion returns to the cooperative network, capitalizing new ventures. New cooperatives create new employment, new goods, new services, expanding the local economy. As network density increases, more value circulates internally rather than leaking to external shareholders. This circulation multiplies effective wealth. Communities become more resilient. People become more invested, literally and figuratively, in each other’s success.
 
 Each turn of the spiral compounds the last. More connections mean more circulation. More circulation means more effective wealth. More effective wealth means more capacity to launch new cooperative ventures, which creates more connections. The spiral feeds itself.
 
@@ -101,7 +101,7 @@ This is the same recursive logic that makes capitalism so potent: compounding re
 
 ## Local Currency as Buffer
 
-As these solidarity economies mature, they develop another crucial capacity: resilience against macroeconomic instability. Communities with dense cooperative networks can even issue their own [[wiki/concepts/local-currency|local currencies]], complementary currencies that continue to facilitate exchange even when the national currency falters.
+As these solidarity economies mature, they develop another crucial capacity: resilience against macroeconomic instability. Communities with dense cooperative networks can even issue their own [[concepts/local-currency|local currencies]], complementary currencies that continue to facilitate exchange even when the national currency falters.
 
 This isn’t speculative. During the 2008 financial crisis, communities with established local currencies like Ithaca HOURS in New York and BerkShares in Massachusetts maintained economic activity while credit froze and dollars became scarce. These systems functioned as economic firewalls, insulating local exchange from the cascading failures of global finance.
 

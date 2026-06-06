@@ -19,8 +19,8 @@ Quadratic funding and other mechanism designs that operationalize genuine plural
 
 ## Key Concepts
 
-- [[wiki/concepts/quadratic-funding|Quadratic Funding]]
-- [[wiki/concepts/commons-governance|Commons Governance]]
+- [[concepts/quadratic-funding|Quadratic Funding]]
+- [[concepts/commons-governance|Commons Governance]]
 
 ## Links
 

@@ -109,7 +109,7 @@ But I do not believe human beings will accept it. The beauty in the tragedy is t
 
 I admit, I could be wrong. Human beings are extraordinarily adaptable, and that adaptability cuts both ways. We have a long and well-documented capacity to go along with monstrous things. Hannah Arendt named it the banality of evil, the way atrocity gets metabolized into ordinary paperwork by people who have simply stopped asking what they are doing. I do not assume we will rise. I only observe that the constriction is reaching a breaking point, and that what happens at a breaking point is not predetermined.
 
-This is why I reach for the word *[[wiki/concepts/solarpunk|solarpunk]]*. Solarpunk is the audacity to imagine that the future could be beautiful. Where cyberpunk extrapolated our worst trajectory, corporate feudalism under perpetual surveillance, solarpunk insists on the other branch: communities living well within living systems, abundance generated from the bottom up rather than hoarded at the top, technology in service of life rather than escape from it. Above all, solarpunk is a positive image of the future, and a positive image of the future is exactly the thing we have been quietly deprived of.
+This is why I reach for the word *[[concepts/solarpunk|solarpunk]]*. Solarpunk is the audacity to imagine that the future could be beautiful. Where cyberpunk extrapolated our worst trajectory, corporate feudalism under perpetual surveillance, solarpunk insists on the other branch: communities living well within living systems, abundance generated from the bottom up rather than hoarded at the top, technology in service of life rather than escape from it. Above all, solarpunk is a positive image of the future, and a positive image of the future is exactly the thing we have been quietly deprived of.
 
 ## A Captured Imagination
 
@@ -119,7 +119,7 @@ You can see the residue of this everywhere. Identity politics as practiced today
 
 Solarpunk is the refusal of that trap. It’s what I’ve come to think of as a *transpolitical* revolutionary imagination. Instead of being kept at one another’s throats over guns and immigration and the whole inventory of wedge issues, the very issues that keep us divided while the machinery of capital operates smoothly through *both* major parties, it asks a different question entirely. Not *who do we blame?* but *what could we build?*
 
-It asks us to step into the positive imagination of a future that is genuinely abundant, where everyone has what they need, but not through the centralized, coercive machinery of state communism. Through local, [[wiki/concepts/regenerative-economics|regenerative economies]]. Through the patient construction of the world we want, in the places where we actually live.
+It asks us to step into the positive imagination of a future that is genuinely abundant, where everyone has what they need, but not through the centralized, coercive machinery of state communism. Through local, [[concepts/regenerative-economics|regenerative economies]]. Through the patient construction of the world we want, in the places where we actually live.
 
 ## We Do Not Need to Capture the State
 
@@ -129,7 +129,7 @@ We do not need to capture the state in order to build the future. The belief tha
 
 This, I would argue, is what rendered twentieth-century communism ineffectual and finally monstrous. It assumed that a dictatorship of the proletariat had to seize the state. But the act of seizing the state corrupts the very thing you set out to create, because the state is, by its nature, a form of *power-over*, authoritarian power, concentrated and enforced from above. You cannot build a society of mutual flourishing using an instrument designed for domination. The tool reshapes the hand that wields it.
 
-What we actually need is what Sophia Life calls *power-with,* a relational power that grows alignment through consensual influence. We need to build what organizers call *[[wiki/concepts/dual-power|dual power]]*, parallel institutions that meet real human needs directly, outside and alongside the failing system, without asking the failing system for permission. This is much closer to what the Black Panther Party understood when they ran free breakfast programs and community clinics: not a demand made of power, but the direct provision of the thing people needed, which is itself a kind of sovereignty.
+What we actually need is what Sophia Life calls *power-with,* a relational power that grows alignment through consensual influence. We need to build what organizers call *[[concepts/dual-power|dual power]]*, parallel institutions that meet real human needs directly, outside and alongside the failing system, without asking the failing system for permission. This is much closer to what the Black Panther Party understood when they ran free breakfast programs and community clinics: not a demand made of power, but the direct provision of the thing people needed, which is itself a kind of sovereignty.
 
 Build the alternative until the old system becomes obsolete. Not overthrow, but *underthrow*, the patient construction of something so much more alive that people simply migrate toward it.
 

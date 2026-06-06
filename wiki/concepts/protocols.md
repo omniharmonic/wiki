@@ -5,12 +5,12 @@ visibility: public
 aliases:
   - "Open Protocols"
 related:
-  - "[[wiki/concepts/social-organisms]]"
-  - "[[wiki/concepts/open-protocol-libraries]]"
-  - "[[wiki/concepts/commons-governance]]"
-  - "[[wiki/concepts/polycentric-governance]]"
-  - "[[wiki/concepts/self-sovereign-identity]]"
-  - "[[wiki/concepts/bioregional-knowledge-commons]]"
+  - "[[concepts/social-organisms]]"
+  - "[[concepts/open-protocol-libraries]]"
+  - "[[concepts/commons-governance]]"
+  - "[[concepts/polycentric-governance]]"
+  - "[[concepts/self-sovereign-identity]]"
+  - "[[concepts/bioregional-knowledge-commons]]"
   - "[[protocols-of-place]]"
 tags:
   - protocols
@@ -33,7 +33,7 @@ The word carries different connotations across domains -- diplomatic rules of st
 
 ## The Digital Precedent
 
-TCP/IP demonstrates what even a simple protocol can achieve at scale. Because it is opinionated about *how* information moves but agnostic about *what* moves, it supports an almost inconceivable diversity of expression -- the entire architecture of the modern internet rests on this single pattern. Blockchain protocols like [[wiki/concepts/ethereum]] extend the logic to value and coordination, enabling programmable agreements between parties who don't trust each other on credibly neutral infrastructure.
+TCP/IP demonstrates what even a simple protocol can achieve at scale. Because it is opinionated about *how* information moves but agnostic about *what* moves, it supports an almost inconceivable diversity of expression -- the entire architecture of the modern internet rests on this single pattern. Blockchain protocols like [[concepts/ethereum]] extend the logic to value and coordination, enabling programmable agreements between parties who don't trust each other on credibly neutral infrastructure.
 
 ## Protocols as Governance Instruments
 

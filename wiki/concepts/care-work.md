@@ -6,12 +6,12 @@ aliases:
   - "Infrastructure of care"
   - "Relational care"
 related:
-  - "[[wiki/concepts/mutual-aid]]"
-  - "[[wiki/concepts/solidarity-economy]]"
-  - "[[wiki/concepts/civic-participation]]"
-  - "[[wiki/concepts/community]]"
-  - "[[wiki/concepts/functional-sovereignty]]"
-  - "[[wiki/concepts/interbeing]]"
+  - "[[concepts/mutual-aid]]"
+  - "[[concepts/solidarity-economy]]"
+  - "[[concepts/civic-participation]]"
+  - "[[concepts/community]]"
+  - "[[concepts/functional-sovereignty]]"
+  - "[[concepts/interbeing]]"
   - "[[sovereignty-is-solidarity]]"
 tags:
   - care-work

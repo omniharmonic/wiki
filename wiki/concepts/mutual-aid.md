@@ -5,11 +5,11 @@ visibility: public
 aliases:
   - "Mutual Aid Networks"
 related:
-  - "[[wiki/concepts/solidarity-economy]]"
-  - "[[wiki/concepts/networked-cooperativism]]"
-  - "[[wiki/concepts/commons-governance]]"
-  - "[[wiki/concepts/polycentric-governance]]"
-  - "[[wiki/concepts/localism]]"
+  - "[[concepts/solidarity-economy]]"
+  - "[[concepts/networked-cooperativism]]"
+  - "[[concepts/commons-governance]]"
+  - "[[concepts/polycentric-governance]]"
+  - "[[concepts/localism]]"
   - "[[protocols-of-place]]"
   - "[[upward-spiral-economics]]"
 tags:
@@ -43,7 +43,7 @@ What is needed is not a replacement for mutual aid but an *amplification* of it:
 
 ## Amplification Through Protocols and Cooperatives
 
-Two structures amplify mutual aid without bureaucratizing it. First, **open protocol libraries** — living repositories of documented, shareable, forkable patterns of interaction (the "social DNA" of [[protocols-of-place|protocols of place]]) that equip communities to coordinate at scales informal networks cannot reach. Second, **cooperatives**, which function as micro solidarity economies — small instances of what mutual aid looks like when given a durable economic structure. In this sense mutual aid is both the cultural ethos and the seed of the [[wiki/concepts/solidarity-economy|solidarity economy]].
+Two structures amplify mutual aid without bureaucratizing it. First, **open protocol libraries** — living repositories of documented, shareable, forkable patterns of interaction (the "social DNA" of [[protocols-of-place|protocols of place]]) that equip communities to coordinate at scales informal networks cannot reach. Second, **cooperatives**, which function as micro solidarity economies — small instances of what mutual aid looks like when given a durable economic structure. In this sense mutual aid is both the cultural ethos and the seed of the [[concepts/solidarity-economy|solidarity economy]].
 
 ## In Benjamin's Work
 

@@ -6,9 +6,9 @@ aliases:
   - polycentricity
   - nested governance
 related:
-  - "[[wiki/concepts/bioregionalism]]"
-  - "[[wiki/concepts/commons-governance]]"
-  - "[[wiki/concepts/cosmolocalism]]"
+  - "[[concepts/bioregionalism]]"
+  - "[[concepts/commons-governance]]"
+  - "[[concepts/cosmolocalism]]"
 tags:
   - governance
   - systems
@@ -36,9 +36,9 @@ Most governance failures stem from scale mismatch — decisions made too far fro
 
 ## Related Concepts
 
-- [[wiki/concepts/bioregionalism|Bioregionalism]] — Ecological units of governance
-- [[wiki/concepts/commons-governance|Commons Governance]] — Shared resource management
-- [[wiki/concepts/cosmolocalism|Cosmolocalism]] — Local sovereignty, global knowledge
+- [[concepts/bioregionalism|Bioregionalism]] — Ecological units of governance
+- [[concepts/commons-governance|Commons Governance]] — Shared resource management
+- [[concepts/cosmolocalism|Cosmolocalism]] — Local sovereignty, global knowledge
 
 ## References
 

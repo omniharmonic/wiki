@@ -25,7 +25,7 @@ related:
 
 Continuing an exploration of liminality and the regenerative turn that began in the [first episode of Omniharmonic](https://anchor.fm/omniharmonic/episodes/The-Liminal-Web-EP_01-e1gugb7), today I spoke with Jordan (Josie) Siegel, a beloved friend and kin on the journey of embodying a vision of a more beautiful and ethical world.
 
-We discuss the role of initiation and ritual in a time between worlds, the relationship between [[wiki/concepts/metamodernism|metamodernism]] and animism, and the courageous choice of relational, sovereign participation in the web Life.
+We discuss the role of initiation and ritual in a time between worlds, the relationship between [[concepts/metamodernism|metamodernism]] and animism, and the courageous choice of relational, sovereign participation in the web Life.
 
 Josie’s participatory container for visionary creators, the Rootcamp Collective, is producing their next Groundworks, **“a devotional accountability structure + community network for discipline-ready visionaries”** May 24th-June 14th, 2022 and June 30th - July 21st.
 

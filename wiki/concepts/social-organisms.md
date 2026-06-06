@@ -5,12 +5,12 @@ visibility: public
 aliases:
   - "Social Organism Ontology"
 related:
-  - "[[wiki/concepts/protocols]]"
-  - "[[wiki/concepts/open-protocol-libraries]]"
-  - "[[wiki/concepts/Holonic Nesting]]"
-  - "[[wiki/concepts/complex-adaptive-systems]]"
-  - "[[wiki/concepts/collective-intelligence]]"
-  - "[[wiki/concepts/mycelial-networks]]"
+  - "[[concepts/protocols]]"
+  - "[[concepts/open-protocol-libraries]]"
+  - "[[concepts/Holonic Nesting]]"
+  - "[[concepts/complex-adaptive-systems]]"
+  - "[[concepts/collective-intelligence]]"
+  - "[[concepts/mycelial-networks]]"
   - "[[protocols-of-place]]"
 tags:
   - social-organisms
@@ -25,7 +25,7 @@ updated: "2026-06-06"
 
 ## Definition
 
-A social organism is a self-organizing group that functions like a superorganism -- people working together toward shared aims, cohering, functioning, and reproducing themselves much as a living body does. In the OpenCivics ontology, if DNA composes cells and cells compose organisms, then [[wiki/concepts/protocols]] compose social organisms. The organism is made of the irreducible complexity of real relationships; protocols are the compressed instructions that allow it to be created, maintained, and reproduced.
+A social organism is a self-organizing group that functions like a superorganism -- people working together toward shared aims, cohering, functioning, and reproducing themselves much as a living body does. In the OpenCivics ontology, if DNA composes cells and cells compose organisms, then [[concepts/protocols]] compose social organisms. The organism is made of the irreducible complexity of real relationships; protocols are the compressed instructions that allow it to be created, maintained, and reproduced.
 
 ## Social DNA
 
@@ -41,4 +41,4 @@ Treating groups as organisms reframes organizing as the cultivation of living sy
 
 ## In Benjamin's Work
 
-Benjamin develops the social-organism ontology and the "social DNA" metaphor in [[protocols-of-place]], positioning [[wiki/concepts/open-protocol-libraries]] as seed banks and communities as the soil in which protocols come alive. The framing extends his thinking on distributed, living coordination in [[the-mycelial-sensing-of-networks]].
+Benjamin develops the social-organism ontology and the "social DNA" metaphor in [[protocols-of-place]], positioning [[concepts/open-protocol-libraries]] as seed banks and communities as the soil in which protocols come alive. The framing extends his thinking on distributed, living coordination in [[the-mycelial-sensing-of-networks]].

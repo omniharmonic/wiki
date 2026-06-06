@@ -7,9 +7,9 @@ aliases:
   - knowledge commons
   - digital commons
 related:
-  - "[[wiki/concepts/polycentric-governance]]"
-  - "[[wiki/concepts/cosmolocalism]]"
-  - "[[wiki/concepts/bioregionalism]]"
+  - "[[concepts/polycentric-governance]]"
+  - "[[concepts/cosmolocalism]]"
+  - "[[concepts/bioregionalism]]"
 tags:
   - governance
   - economics
@@ -43,9 +43,9 @@ Extending commons governance to digital resources (knowledge, software, protocol
 
 ## Related Concepts
 
-- [[wiki/concepts/polycentric-governance|Polycentric Governance]] — Nested decision-making
-- [[wiki/concepts/cosmolocalism|Cosmolocalism]] — Local governance, shared knowledge
-- [[wiki/concepts/bioregionalism|Bioregionalism]] — Place-based governance
+- [[concepts/polycentric-governance|Polycentric Governance]] — Nested decision-making
+- [[concepts/cosmolocalism|Cosmolocalism]] — Local governance, shared knowledge
+- [[concepts/bioregionalism|Bioregionalism]] — Place-based governance
 
 ## References
 

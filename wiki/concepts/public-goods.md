@@ -5,12 +5,12 @@ visibility: public
 aliases:
   - "Public Good"
 related:
-  - "[[wiki/concepts/impactdaos]]"
-  - "[[wiki/concepts/quadratic-funding]]"
-  - "[[wiki/concepts/regenerative-finance]]"
-  - "[[wiki/concepts/commons-governance]]"
-  - "[[wiki/concepts/digital-un-enclosure]]"
-  - "[[wiki/concepts/civic-utilities]]"
+  - "[[concepts/impactdaos]]"
+  - "[[concepts/quadratic-funding]]"
+  - "[[concepts/regenerative-finance]]"
+  - "[[concepts/commons-governance]]"
+  - "[[concepts/digital-un-enclosure]]"
+  - "[[concepts/civic-utilities]]"
   - "[[impactdaos-and-the-purpose-economy]]"
 tags:
   - public-goods
@@ -33,11 +33,11 @@ Non-enclosability means a good cannot be fenced off, privatized, or captured for
 
 ## A Core Design Criterion
 
-Treating public goods as a design criterion -- rather than an afterthought or a charitable add-on -- reorients how systems are built. Where extractive systems are engineered to enclose value and externalize harm, post-zero-sum systems are engineered to produce non-rivalrous, non-enclosable value and to internalize benefit for all. This is the design discipline underlying [[wiki/concepts/regenerative-finance]] and the commons-based approach to social impact.
+Treating public goods as a design criterion -- rather than an afterthought or a charitable add-on -- reorients how systems are built. Where extractive systems are engineered to enclose value and externalize harm, post-zero-sum systems are engineered to produce non-rivalrous, non-enclosable value and to internalize benefit for all. This is the design discipline underlying [[concepts/regenerative-finance]] and the commons-based approach to social impact.
 
 ## Funding the Underfunded
 
-Because public goods resist enclosure, the classic problem is funding them without a market to price them. Mechanisms like [[wiki/concepts/quadratic-funding]] weight contributions by the number of contributors rather than their size, so broadly supported initiatives receive more resources -- democratic preference revelation without centralized decision-making. [[wiki/concepts/impactdaos]] extend this into a repeatable, composable infrastructure for funding public goods at civilizational scale.
+Because public goods resist enclosure, the classic problem is funding them without a market to price them. Mechanisms like [[concepts/quadratic-funding]] weight contributions by the number of contributors rather than their size, so broadly supported initiatives receive more resources -- democratic preference revelation without centralized decision-making. [[concepts/impactdaos]] extend this into a repeatable, composable infrastructure for funding public goods at civilizational scale.
 
 ## In Benjamin's Work
 

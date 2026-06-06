@@ -5,12 +5,12 @@ visibility: public
 aliases:
   - "Cooperative Networks"
 related:
-  - "[[wiki/concepts/solidarity-economy]]"
-  - "[[wiki/concepts/worker-cooperatives]]"
-  - "[[wiki/concepts/platform-cooperatives]]"
-  - "[[wiki/concepts/economic-democracy]]"
-  - "[[wiki/concepts/bioregional-finance]]"
-  - "[[wiki/concepts/regenerative-economics]]"
+  - "[[concepts/solidarity-economy]]"
+  - "[[concepts/worker-cooperatives]]"
+  - "[[concepts/platform-cooperatives]]"
+  - "[[concepts/economic-democracy]]"
+  - "[[concepts/bioregional-finance]]"
+  - "[[concepts/regenerative-economics]]"
   - "[[upward-spiral-economics]]"
 tags:
   - networked-cooperativism
@@ -46,4 +46,4 @@ Networked cooperativism borrows capitalism's most potent mechanism — compoundi
 
 ## In Benjamin's Work
 
-In [[upward-spiral-economics]], Benjamin advances the networked cooperative as the *primary structural mechanism* capable of operationalizing relational value at the scale required to compete with extraction. He argues that only through networked cooperativism can [[wiki/concepts/bioregional-finance|bioregional economies]] hope to outcompete extractive market pressure — and calls for cooperative incubators (citing the BioFi Project and Open Future Coalition) that nurture entire cooperative ecosystems, not just individual ventures.
+In [[upward-spiral-economics]], Benjamin advances the networked cooperative as the *primary structural mechanism* capable of operationalizing relational value at the scale required to compete with extraction. He argues that only through networked cooperativism can [[concepts/bioregional-finance|bioregional economies]] hope to outcompete extractive market pressure — and calls for cooperative incubators (citing the BioFi Project and Open Future Coalition) that nurture entire cooperative ecosystems, not just individual ventures.

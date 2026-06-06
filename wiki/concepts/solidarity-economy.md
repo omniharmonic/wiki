@@ -5,12 +5,12 @@ visibility: public
 aliases:
   - "Solidarity Economics"
 related:
-  - "[[wiki/concepts/networked-cooperativism]]"
-  - "[[wiki/concepts/worker-cooperatives]]"
-  - "[[wiki/concepts/mutual-aid]]"
-  - "[[wiki/concepts/local-currency]]"
-  - "[[wiki/concepts/regenerative-economics]]"
-  - "[[wiki/concepts/economic-democracy]]"
+  - "[[concepts/networked-cooperativism]]"
+  - "[[concepts/worker-cooperatives]]"
+  - "[[concepts/mutual-aid]]"
+  - "[[concepts/local-currency]]"
+  - "[[concepts/regenerative-economics]]"
+  - "[[concepts/economic-democracy]]"
   - "[[upward-spiral-economics]]"
 tags:
   - solidarity-economy
@@ -37,12 +37,12 @@ The solidarity economy is not a sentiment but an architecture. Its building bloc
 - **Cooperatives** as the cellular unit — small instances of mutual aid given economic structure, where the people who create value share in its benefits.
 - **Cooperative finance and education** — the "second line" infrastructure (modeled by Mondragón's cooperative bank, Caja Laboral, and Mondragón University) that keeps cooperatives from depending on extractive institutions.
 - **Inter-cooperative solidarity funds** — pooled capital that preferentially funds collaboration over internal competition, plus labor redeployment that moves workers between enterprises without loss of seniority.
-- **[[wiki/concepts/local-currency|Local currencies]]** — exchange media backed by real productive relationships, buffering communities against macroeconomic shocks.
+- **[[concepts/local-currency|Local currencies]]** — exchange media backed by real productive relationships, buffering communities against macroeconomic shocks.
 
 ## Keeping Value Local
 
-When a multinational enters a community it functions like a straw, channeling value back to distant shareholders. Local cooperative economies do the opposite: value generated locally stays local, circulates, and compounds. Dense networks of solidarity enterprises form a community's circulatory system, replacing the one-way extraction pipeline with a self-reinforcing loop of mutual prosperity. This is the basis of the [[wiki/concepts/bioregional-finance|bioregional economy]] — value created, circulated, and governed at scales where people can see and know each other.
+When a multinational enters a community it functions like a straw, channeling value back to distant shareholders. Local cooperative economies do the opposite: value generated locally stays local, circulates, and compounds. Dense networks of solidarity enterprises form a community's circulatory system, replacing the one-way extraction pipeline with a self-reinforcing loop of mutual prosperity. This is the basis of the [[concepts/bioregional-finance|bioregional economy]] — value created, circulated, and governed at scales where people can see and know each other.
 
 ## In Benjamin's Work
 
-The solidarity economy is the central frame of [[upward-spiral-economics]], which synthesizes [[wiki/concepts/regenerative-economics|regenerative economics]] with bioregional re-localization and proposes the networked cooperative as the structural mechanism capable of operationalizing relational value at a scale that can compete with extraction. Benjamin sees solidarity economies as upward spirals — self-reinforcing cycles of mutual benefit that lift communities out of precarity through the radical, ancient, practical strategy of genuinely caring about each other's prosperity.
+The solidarity economy is the central frame of [[upward-spiral-economics]], which synthesizes [[concepts/regenerative-economics|regenerative economics]] with bioregional re-localization and proposes the networked cooperative as the structural mechanism capable of operationalizing relational value at a scale that can compete with extraction. Benjamin sees solidarity economies as upward spirals — self-reinforcing cycles of mutual benefit that lift communities out of precarity through the radical, ancient, practical strategy of genuinely caring about each other's prosperity.

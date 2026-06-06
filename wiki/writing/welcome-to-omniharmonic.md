@@ -37,7 +37,7 @@ It will take all of our majesty to create the world we need.
 
 ### Podcast
 
-The Omniharmonic podcast is our collective inquiry’s generative edge. Speaking with groups and individuals that are themselves enmeshed in a particular expression of the [[wiki/concepts/the-great-turning|Great Turning]], these conversations will be opportunities to practice a culture of wholeness and harmony by intentionally exploring how each part fits into the larger whole. Through the process of *dialogos*, perspectives and concepts are transformed as a result of deeper context, new relationships forming, and new synthesis emerging. This leading edge of dialogue is itself a metabolic cultural process of synthesis and emergence in which the greater story of Life’s unfolding reveals itself as it is explored and articulated.
+The Omniharmonic podcast is our collective inquiry’s generative edge. Speaking with groups and individuals that are themselves enmeshed in a particular expression of the [[concepts/the-great-turning|Great Turning]], these conversations will be opportunities to practice a culture of wholeness and harmony by intentionally exploring how each part fits into the larger whole. Through the process of *dialogos*, perspectives and concepts are transformed as a result of deeper context, new relationships forming, and new synthesis emerging. This leading edge of dialogue is itself a metabolic cultural process of synthesis and emergence in which the greater story of Life’s unfolding reveals itself as it is explored and articulated.
 
 ### Writing
 

@@ -8,12 +8,12 @@ aliases:
   - "watershed governance"
   - "bioregional commons"
 related:
-  - "[[wiki/concepts/bioregionalism]]"
-  - "[[wiki/concepts/Knowledge Commons]]"
-  - "[[wiki/concepts/commons-governance]]"
-  - "[[wiki/concepts/polycentric-governance]]"
-  - "[[wiki/concepts/Knowledge Organizational Infrastructure]]"
-  - "[[wiki/concepts/Cascadia Bioregional Movement]]"
+  - "[[concepts/bioregionalism]]"
+  - "[[concepts/Knowledge Commons]]"
+  - "[[concepts/commons-governance]]"
+  - "[[concepts/polycentric-governance]]"
+  - "[[concepts/Knowledge Organizational Infrastructure]]"
+  - "[[concepts/Cascadia Bioregional Movement]]"
   - "[[bioregional-coordination-sacred-work]]"
   - "[[the-infrastructure-of-belonging]]"
 tags:
@@ -33,7 +33,7 @@ Bioregional Coordination is the practice of aligning human governance with livin
 
 ## Learning from the Forest
 
-Benjamin's foundational move is to learn coordination from ecology itself. Mycorrhizal networks coordinate vast forests without hierarchy, ownership, or a central controller — nutrients and signals flow through relationships, not command. This becomes a model for [[wiki/concepts/polycentric-governance|polycentric governance]]: many centers of decision-making operating like organs in a body, each autonomous yet serving the whole. He anchors the practice in Elinor Ostrom's eight design principles for enduring commons, treating the bioregion as a shared resource to be stewarded rather than enclosed.
+Benjamin's foundational move is to learn coordination from ecology itself. Mycorrhizal networks coordinate vast forests without hierarchy, ownership, or a central controller — nutrients and signals flow through relationships, not command. This becomes a model for [[concepts/polycentric-governance|polycentric governance]]: many centers of decision-making operating like organs in a body, each autonomous yet serving the whole. He anchors the practice in Elinor Ostrom's eight design principles for enduring commons, treating the bioregion as a shared resource to be stewarded rather than enclosed.
 
 ## Composting Empire
 
@@ -41,7 +41,7 @@ Bioregional Coordination is explicitly post-colonial work. Benjamin traces the "
 
 ## Knowledge Commons at Scale
 
-Coordination across many bioregions requires shared knowledge without imposed standardization. Federated [[wiki/concepts/Knowledge Commons|knowledge commons]] — connected via the [[wiki/concepts/Knowledge Organizational Infrastructure|Knowledge Organizational Infrastructure]] protocol — let agents federate place-based knowledge across bioregions while preserving local difference. This is the infrastructural layer of the [[wiki/concepts/the-great-turning|Great Turning]] (Joanna Macy): an ontological shift from separation to [[wiki/concepts/interbeing|interbeing]], honoring indigenous relationship to land while building genuinely post-colonial governance. Named collaborators include the Commoning Standard and MetaGov; pilots include Spirit of the Front Range and the [[wiki/concepts/Cascadia Bioregional Movement|Cascadia Bioregional Movement]], with the OpenCivics consortium as the connecting infrastructure.
+Coordination across many bioregions requires shared knowledge without imposed standardization. Federated [[concepts/Knowledge Commons|knowledge commons]] — connected via the [[concepts/Knowledge Organizational Infrastructure|Knowledge Organizational Infrastructure]] protocol — let agents federate place-based knowledge across bioregions while preserving local difference. This is the infrastructural layer of the [[concepts/the-great-turning|Great Turning]] (Joanna Macy): an ontological shift from separation to [[concepts/interbeing|interbeing]], honoring indigenous relationship to land while building genuinely post-colonial governance. Named collaborators include the Commoning Standard and MetaGov; pilots include Spirit of the Front Range and the [[concepts/Cascadia Bioregional Movement|Cascadia Bioregional Movement]], with the OpenCivics consortium as the connecting infrastructure.
 
 ## In Benjamin's Work
 

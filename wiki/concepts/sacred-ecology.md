@@ -5,12 +5,12 @@ visibility: public
 aliases:
   - "Sacred Ecology"
 related:
-  - "[[wiki/concepts/earth-dharma]]"
-  - "[[wiki/concepts/interbeing]]"
-  - "[[wiki/concepts/living-systems]]"
-  - "[[wiki/concepts/neo-indigeneity]]"
-  - "[[wiki/concepts/rights-of-nature]]"
-  - "[[wiki/concepts/bioregionalism]]"
+  - "[[concepts/earth-dharma]]"
+  - "[[concepts/interbeing]]"
+  - "[[concepts/living-systems]]"
+  - "[[concepts/neo-indigeneity]]"
+  - "[[concepts/rights-of-nature]]"
+  - "[[concepts/bioregionalism]]"
   - "[[awakening-the-earth-dharma-part-ii]]"
 tags:
   - sacred-ecology
@@ -28,7 +28,7 @@ Sacred Ecology is a plural, relational way of perceiving the beingness and senti
 
 ## Entraining to the Cycles
 
-Sacred Ecology is recovered through entrainment to the natural cycles — day and night, the lunar month, the solar seasons, and the longer rhythms of local ecology: when the cottonwoods flower, when the migratory birds return, when the rivers swell with snowmelt. These cycles are the base-code of existence, "literal metaphors" that point to transpersonal patterns while simultaneously being those patterns. Learning the cycles of one's place replaces the linear, deadline-driven temporality of the separated self with a cyclical, nested temporality — quietly undoing the conditioning that keeps the [[wiki/concepts/story-of-separation|story of separation]] in place.
+Sacred Ecology is recovered through entrainment to the natural cycles — day and night, the lunar month, the solar seasons, and the longer rhythms of local ecology: when the cottonwoods flower, when the migratory birds return, when the rivers swell with snowmelt. These cycles are the base-code of existence, "literal metaphors" that point to transpersonal patterns while simultaneously being those patterns. Learning the cycles of one's place replaces the linear, deadline-driven temporality of the separated self with a cyclical, nested temporality — quietly undoing the conditioning that keeps the [[concepts/story-of-separation|story of separation]] in place.
 
 ## The Sit Spot and Empathic Extension
 
@@ -40,4 +40,4 @@ Sacred Ecology is bound up with recovering "blood memory" of our own indigeneity
 
 ## In Benjamin's Work
 
-Benjamin articulates Sacred Ecology in [[awakening-the-earth-dharma-part-ii]] as the bridge between inner healing and bioregional life, where a more plural relationship to sentience makes [[wiki/concepts/rights-of-nature|the rights of nature]] and watershed governance coherent. It is a core texture of the [[when-earth-wakes-up-to-itself|Earth waking up to itself]] and of [[bioregional-coordination-sacred-work|bioregional coordination as sacred work]].
+Benjamin articulates Sacred Ecology in [[awakening-the-earth-dharma-part-ii]] as the bridge between inner healing and bioregional life, where a more plural relationship to sentience makes [[concepts/rights-of-nature|the rights of nature]] and watershed governance coherent. It is a core texture of the [[when-earth-wakes-up-to-itself|Earth waking up to itself]] and of [[bioregional-coordination-sacred-work|bioregional coordination as sacred work]].

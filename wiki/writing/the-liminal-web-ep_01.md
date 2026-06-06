@@ -29,7 +29,7 @@ I quietly published the first episode of the Omniharmonic Podcast on Friday even
 
 [Listen here.](https://anchor.fm/omniharmonic/episodes/The-Liminal-Web-EP_01-e1gugb7)
 
-My sense is that this conversation will branch into a deeper dialogue around liminality and the [[wiki/concepts/regeneration|regenerative turn]]. I would love to host a conversation between Jeremy, Turquoise, Joe, myself, and Tyson Yunkaporta to go deeper into indigenous complexity with an eye for the legacy of colonization in our mental models of reality.
+My sense is that this conversation will branch into a deeper dialogue around liminality and the [[concepts/regeneration|regenerative turn]]. I would love to host a conversation between Jeremy, Turquoise, Joe, myself, and Tyson Yunkaporta to go deeper into indigenous complexity with an eye for the legacy of colonization in our mental models of reality.
 
 Listening back to this conversation, it felt clear and important to begin working on a regenerative manifesto. This term is so close to being completely greenwashed but it holds within it the design specifications necessary for all human activities to exist in harmony.
 

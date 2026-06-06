@@ -34,9 +34,9 @@ This journey brought me to an all-win political discourse hub in Topanga, CA, a 
 
 Throughout this journey, I have been a witness to the Golden Seed of planetary awakening that has been planted in the hearts of people from all walks of life, across the boundaries of nation states, watersheds, and bioregions. This seed contains a blueprint of a life-affirming civilization, and it is through the tending of this seed that a new world will germinate and grow. It no longer surprises me to discover this seed all over the world, but I still find it remarkable that Gaia’s intelligence so exquisitely activates human beings in service to Life, reaching into the experience of each person to activate a perfectly designed sequence of organic epiphanies that have led so many of us to the same questions and answers.
 
-In my own journey of activating this seed, I have come to realize that one of the core callings of my Life is to articulate and embody [[wiki/concepts/life-culture|Life Culture]].
+In my own journey of activating this seed, I have come to realize that one of the core callings of my Life is to articulate and embody [[concepts/life-culture|Life Culture]].
 
-The purpose of Life Culture is to distill a pattern of embodied relationship & behavior whose emergent function is More Life for the people & ecologies within which they’re embedded. The derivation of these patterns is iterative, experimental, and relational, emerging from the substrate of right relationship with [[wiki/concepts/living-systems|Living Systems]] and human ecologies of relationship over time.
+The purpose of Life Culture is to distill a pattern of embodied relationship & behavior whose emergent function is More Life for the people & ecologies within which they’re embedded. The derivation of these patterns is iterative, experimental, and relational, emerging from the substrate of right relationship with [[concepts/living-systems|Living Systems]] and human ecologies of relationship over time.
 
 As a metamodern culture coder, I hold no hegemonic impulse to define a new dominant monoculture. Because these patterns emerge from natural law, they are contextual & alive and don’t need to be enforced by human mechanisms of domination and control. Rather, they are self-evident based on their positive effects on the direct lived experiences of those who practice them.
 

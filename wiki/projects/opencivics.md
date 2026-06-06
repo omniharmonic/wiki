@@ -19,9 +19,9 @@ OpenCivics builds infrastructure for communities to govern their shared affairs 
 
 ## Key Concepts
 
-- [[wiki/concepts/polycentric-governance|Polycentric Governance]]
-- [[wiki/concepts/commons-governance|Commons Governance]]
-- [[wiki/concepts/cosmolocalism|Cosmolocalism]]
+- [[concepts/polycentric-governance|Polycentric Governance]]
+- [[concepts/commons-governance|Commons Governance]]
+- [[concepts/cosmolocalism|Cosmolocalism]]
 
 ## Links
 

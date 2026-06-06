@@ -6,12 +6,12 @@ aliases:
   - "Knowledge Commoning"
   - "Bioregional Knowledge Commoning"
 related:
-  - "[[wiki/concepts/bioregionalism]]"
-  - "[[wiki/concepts/Knowledge Commons]]"
-  - "[[wiki/concepts/collective-intelligence]]"
-  - "[[wiki/concepts/commons-governance]]"
-  - "[[wiki/concepts/Knowledge Organizational Infrastructure]]"
-  - "[[wiki/concepts/Holonic Nesting]]"
+  - "[[concepts/bioregionalism]]"
+  - "[[concepts/Knowledge Commons]]"
+  - "[[concepts/collective-intelligence]]"
+  - "[[concepts/commons-governance]]"
+  - "[[concepts/Knowledge Organizational Infrastructure]]"
+  - "[[concepts/Holonic Nesting]]"
 tags:
   - knowledge-commons
   - bioregional
@@ -57,14 +57,14 @@ Traditional platforms can't solve bioregional knowledge sharing because:
 
 ## Approaches & Tools
 
-- **[[wiki/concepts/Knowledge Organizational Infrastructure]]** (COI protocol) — "mycelial substrate" for connecting, organizing, and sharing knowledge at different scales
+- **[[concepts/Knowledge Organizational Infrastructure]]** (COI protocol) — "mycelial substrate" for connecting, organizing, and sharing knowledge at different scales
 - **Knowledge graphs** — treat relationships as first-class citizens; ideal for bioregional knowledge where relationality is primary
 - **AI agents** — process transcripts, oral histories, meetings into structured knowledge; facilitate cross-bioregion discovery
 - **Pattern language** — abstracting practices from specific places into transferable patterns that can be re-implemented elsewhere
 
 ## Holonic Structure
 
-[[wiki/concepts/Holonic Nesting]]: Knowledge commons can be organized fractally — personal → neighborhood → watershed → bioregion → planetary. A network of nodes, from the outside, looks and behaves like a single node. This enables federation without centralization.
+[[concepts/Holonic Nesting]]: Knowledge commons can be organized fractally — personal → neighborhood → watershed → bioregion → planetary. A network of nodes, from the outside, looks and behaves like a single node. This enables federation without centralization.
 
 ## Temporal Layer
 

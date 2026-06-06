@@ -4,10 +4,10 @@ type: concept
 visibility: public
 aliases: [Knowledge Commoning, Knowledge Sharing Commons]
 related:
-  - [[wiki/concepts/Pattern Mining]]
-  - [[wiki/concepts/Bioregional Coordination]]
-  - [[wiki/concepts/AI]]
-  - [[wiki/concepts/Peer Federation]]
+  - [[concepts/Pattern Mining]]
+  - [[concepts/Bioregional Coordination]]
+  - [[concepts/AI]]
+  - [[concepts/Peer Federation]]
 tags: [knowledge-management, commons, ai, bioregional, open-protocols]
 created: "2026-02-10"
 updated: "2026-02-10"
@@ -49,7 +49,7 @@ Knowledge includes context of who, when, where, why — not just abstract inform
 
 ## AI-Enabled Knowledge Commons
 
-Recent developments in [[wiki/concepts/AI|AI]] and [[wiki/concepts/Vector Embeddings|vector embeddings]] dramatically lower barriers to knowledge commoning:
+Recent developments in [[concepts/AI|AI]] and [[concepts/Vector Embeddings|vector embeddings]] dramatically lower barriers to knowledge commoning:
 
 ### Traditional Challenges
 
@@ -80,7 +80,7 @@ Recent developments in [[wiki/concepts/AI|AI]] and [[wiki/concepts/Vector Embedd
 
 ### Bioregional Coordination
 
-**Example**: Spirit of the Front Range + [[wiki/concepts/Cascadia Bioregional Movement|Cascadia]]
+**Example**: Spirit of the Front Range + [[concepts/Cascadia Bioregional Movement|Cascadia]]
 - Both regions capture local agricultural knowledge (climate, soil, growing practices)
 - Agents federate patterns between regions
 - Each maintains local taxonomy, agents translate
@@ -88,7 +88,7 @@ Recent developments in [[wiki/concepts/AI|AI]] and [[wiki/concepts/Vector Embedd
 
 ### Civic Transparency
 
-**Example**: [[wiki/concepts/Open Council|Open Council]] (Heenal Rajani)
+**Example**: [[concepts/Open Council|Open Council]] (Heenal Rajani)
 - 1,500 city council meetings archived (London, Ontario, 10 years)
 - RAG (retrieval-augmented generation) chatbot for querying
 - Transcripts + minutes + press reports (multiple perspectives)
@@ -216,15 +216,15 @@ Recent developments in [[wiki/concepts/AI|AI]] and [[wiki/concepts/Vector Embedd
 
 ## Related Concepts
 
-- [[wiki/concepts/Pattern Mining]] - Extracting insights from interviews/documents
-- [[wiki/concepts/Bioregional Coordination]] - Place-based organizing enabled by knowledge commons
-- [[wiki/concepts/Peer Federation]] - Decentralized relationship model
-- [[wiki/concepts/AI]] - Technology enabling scaled knowledge commoning
-- [[wiki/concepts/Vector Embeddings]] - How AI remembers and relates knowledge
-- [[wiki/concepts/Meta-Index]] - Registry approach vs meta-repo
-- [[wiki/concepts/Bridge Schemas]] - Translation between taxonomies
-- [[wiki/concepts/RAG]] (Retrieval-Augmented Generation) - AI technique for queryable archives
-- [[wiki/concepts/protocols|Open Protocols]] - Shared standards for coordination
+- [[concepts/Pattern Mining]] - Extracting insights from interviews/documents
+- [[concepts/Bioregional Coordination]] - Place-based organizing enabled by knowledge commons
+- [[concepts/Peer Federation]] - Decentralized relationship model
+- [[concepts/AI]] - Technology enabling scaled knowledge commoning
+- [[concepts/Vector Embeddings]] - How AI remembers and relates knowledge
+- [[concepts/Meta-Index]] - Registry approach vs meta-repo
+- [[concepts/Bridge Schemas]] - Translation between taxonomies
+- [[concepts/RAG]] (Retrieval-Augmented Generation) - AI technique for queryable archives
+- [[concepts/protocols|Open Protocols]] - Shared standards for coordination
 
 ## References
 

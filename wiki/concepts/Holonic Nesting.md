@@ -7,11 +7,11 @@ aliases:
   - "Fractal Nesting"
   - "Holonic Structure"
 related:
-  - "[[wiki/concepts/bioregional-knowledge-commons]]"
-  - "[[wiki/concepts/bioregionalism]]"
-  - "[[wiki/concepts/complex-adaptive-systems]]"
-  - "[[wiki/concepts/cosmolocalism]]"
-  - "[[wiki/concepts/Knowledge Organizational Infrastructure]]"
+  - "[[concepts/bioregional-knowledge-commons]]"
+  - "[[concepts/bioregionalism]]"
+  - "[[concepts/complex-adaptive-systems]]"
+  - "[[concepts/cosmolocalism]]"
+  - "[[concepts/Knowledge Organizational Infrastructure]]"
 tags:
   - systems-thinking
   - bioregional
@@ -45,10 +45,10 @@ Mapping knowledge commoning structure onto the natural scale of the land:
 - Cross-bioregional sharing (Cascadia ↔ Front Range)
 
 ### Governance
-[[wiki/concepts/commons-governance|Governance]] structures can be holonically nested so that each community makes decisions at the appropriate scale without ceding sovereignty to higher levels. Decisions that affect only one scale are made at that scale (cf. [[wiki/concepts/cosmolocalism|subsidiarity]]).
+[[concepts/commons-governance|Governance]] structures can be holonically nested so that each community makes decisions at the appropriate scale without ceding sovereignty to higher levels. Decisions that affect only one scale are made at that scale (cf. [[concepts/cosmolocalism|subsidiarity]]).
 
 ### Protocol Design
-The [[wiki/concepts/Knowledge Organizational Infrastructure|COI protocol]] is explicitly designed around holonic nesting — nodes can behave as swarms internally while presenting a single interface externally.
+The [[concepts/Knowledge Organizational Infrastructure|COI protocol]] is explicitly designed around holonic nesting — nodes can behave as swarms internally while presenting a single interface externally.
 
 ## Origin
 

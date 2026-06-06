@@ -5,12 +5,12 @@ visibility: public
 aliases:
   - "Impact DAOs"
 related:
-  - "[[wiki/concepts/public-goods]]"
-  - "[[wiki/concepts/regenerative-finance]]"
-  - "[[wiki/concepts/quadratic-funding]]"
-  - "[[wiki/concepts/commons-governance]]"
-  - "[[wiki/concepts/ethereum]]"
-  - "[[wiki/concepts/collective-intelligence]]"
+  - "[[concepts/public-goods]]"
+  - "[[concepts/regenerative-finance]]"
+  - "[[concepts/quadratic-funding]]"
+  - "[[concepts/commons-governance]]"
+  - "[[concepts/ethereum]]"
+  - "[[concepts/collective-intelligence]]"
   - "[[impactdaos-and-the-purpose-economy]]"
 tags:
   - impactdaos
@@ -25,7 +25,7 @@ updated: "2026-06-06"
 
 ## Definition
 
-An ImpactDAO is a decentralized autonomous organization whose externalities are net-positive -- a DAO that, by its operation, generates more good for the world than it extracts. Articulated by Ale Borda and Kevin Owocki in their book *ImpactDAOs*, they are described as "the foundational atomic building block of an emergent, regenerative, peer-to-peer, pluralistic, civilizational-scale infrastructure for funding [[wiki/concepts/public-goods]]." They are the atomic unit of a new public-goods funding infrastructure.
+An ImpactDAO is a decentralized autonomous organization whose externalities are net-positive -- a DAO that, by its operation, generates more good for the world than it extracts. Articulated by Ale Borda and Kevin Owocki in their book *ImpactDAOs*, they are described as "the foundational atomic building block of an emergent, regenerative, peer-to-peer, pluralistic, civilizational-scale infrastructure for funding [[concepts/public-goods]]." They are the atomic unit of a new public-goods funding infrastructure.
 
 ## The Atomic Building Block
 
@@ -33,7 +33,7 @@ If a public-goods economy is to exist at civilizational scale, it needs a repeat
 
 ## Out-Competing the Incumbent System
 
-For a purpose-oriented economic paradigm to emerge, it cannot merely be morally preferable -- it must out-compete the existing win-lose system in efficiency, cost, and accessibility. Borda and the community of builders she convenes pursue this through peer impact networks, shared knowledge and best practices, and new funding mechanisms (such as [[wiki/concepts/quadratic-funding]]) that up-regulate for collaboration, all-win competition, and synergy rather than zero-sum rivalry.
+For a purpose-oriented economic paradigm to emerge, it cannot merely be morally preferable -- it must out-compete the existing win-lose system in efficiency, cost, and accessibility. Borda and the community of builders she convenes pursue this through peer impact networks, shared knowledge and best practices, and new funding mechanisms (such as [[concepts/quadratic-funding]]) that up-regulate for collaboration, all-win competition, and synergy rather than zero-sum rivalry.
 
 ## Toward a Purpose Economy
 

@@ -26,7 +26,7 @@ related:
 
 Hello dear readers,
 
-I wanted to share a Facebook post I wrote last week as I was sitting with the emergence of this body of work I call [[wiki/concepts/life-culture|Life Culture]]. It feels to me as though a coherent stream of wisdom is coming onto the planet now through a network of souls who have heard its call and are devoting themselves to its practice and articulation. I wrote the following:
+I wanted to share a Facebook post I wrote last week as I was sitting with the emergence of this body of work I call [[concepts/life-culture|Life Culture]]. It feels to me as though a coherent stream of wisdom is coming onto the planet now through a network of souls who have heard its call and are devoting themselves to its practice and articulation. I wrote the following:
 
 OmniHarmonic is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
 

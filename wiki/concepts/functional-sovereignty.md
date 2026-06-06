@@ -6,12 +6,12 @@ aliases:
   - "Community sovereignty"
   - "Collective sovereignty"
 related:
-  - "[[wiki/concepts/commons-governance]]"
-  - "[[wiki/concepts/consent-based-governance]]"
-  - "[[wiki/concepts/subsidiarity]]"
-  - "[[wiki/concepts/recursive-sovereignty]]"
-  - "[[wiki/concepts/care-work]]"
-  - "[[wiki/concepts/bioregionalism]]"
+  - "[[concepts/commons-governance]]"
+  - "[[concepts/consent-based-governance]]"
+  - "[[concepts/subsidiarity]]"
+  - "[[concepts/recursive-sovereignty]]"
+  - "[[concepts/care-work]]"
+  - "[[concepts/bioregionalism]]"
   - "[[sovereignty-is-solidarity]]"
 tags:
   - functional-sovereignty
@@ -35,7 +35,7 @@ If the throne of selfhood is built from the web of relationships, then a throne 
 
 ## Why Solidarity Needs Teeth
 
-Functional sovereignty is what makes [[wiki/concepts/solidarity-economy|solidarity]] *real*. Without enforceability, communities face the free-rider problem: people benefit from the group's solidarity without entering reciprocity, quietly converting solidarity into extraction. This is the heart of Elinor Ostrom's findings — enduring commons survived not by being open and unbounded but by having clear boundaries, locally crafted rules, graduated sanctions, and accessible conflict resolution. Real freedom is *constituted by* the right rules, made and enforced by the people who live with their consequences.
+Functional sovereignty is what makes [[concepts/solidarity-economy|solidarity]] *real*. Without enforceability, communities face the free-rider problem: people benefit from the group's solidarity without entering reciprocity, quietly converting solidarity into extraction. This is the heart of Elinor Ostrom's findings — enduring commons survived not by being open and unbounded but by having clear boundaries, locally crafted rules, graduated sanctions, and accessible conflict resolution. Real freedom is *constituted by* the right rules, made and enforced by the people who live with their consequences.
 
 ## In Benjamin's Work
 

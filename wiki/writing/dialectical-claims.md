@@ -6,7 +6,7 @@ visibility: public
 status: published
 publication: "omniharmonic (Substack)"
 url: "https://omniharmonic.substack.com/p/dialecticalclaims"
-tags: [philosophy, dialectics, AI, anti-debate, computational-philosophy, open-source]
+tags: [philosophy, dialectics, ai, anti-debate, computational-philosophy, open-source]
 published: ""
 updated: "2026-03-23"
 description: "Introducing Dialectical.Claims, an open-source experiment in computational philosophy that instantiates 50+ philosophical thinkers as AI agents to engage in structured anti-debate — optimizing for collective insight rather than adversarial victory."

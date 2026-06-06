@@ -6,12 +6,12 @@ aliases:
   - "Solarpunk imagination"
   - "Solarpunk revolution"
 related:
-  - "[[wiki/concepts/political-imagination]]"
-  - "[[wiki/concepts/dual-power]]"
-  - "[[wiki/concepts/regenerative-economics]]"
-  - "[[wiki/concepts/post-tragic-audacity]]"
-  - "[[wiki/concepts/localism]]"
-  - "[[wiki/concepts/functional-sovereignty]]"
+  - "[[concepts/political-imagination]]"
+  - "[[concepts/dual-power]]"
+  - "[[concepts/regenerative-economics]]"
+  - "[[concepts/post-tragic-audacity]]"
+  - "[[concepts/localism]]"
+  - "[[concepts/functional-sovereignty]]"
   - "[[the-solarpunk-revolution-is-inevitable]]"
 tags:
   - solarpunk

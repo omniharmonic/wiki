@@ -6,8 +6,8 @@ aliases:
   - cosmo-local
   - cosmo-local coordination
 related:
-  - "[[wiki/concepts/bioregionalism]]"
-  - "[[wiki/concepts/commons-governance]]"
+  - "[[concepts/bioregionalism]]"
+  - "[[concepts/commons-governance]]"
 tags:
   - governance
   - coordination
@@ -39,8 +39,8 @@ This is the organizational logic behind federated knowledge systems like OPAL �
 
 ## Related Concepts
 
-- [[wiki/concepts/bioregionalism|Bioregionalism]] — Place-based governance
-- [[wiki/concepts/commons-governance|Commons Governance]] — Shared stewardship
+- [[concepts/bioregionalism|Bioregionalism]] — Place-based governance
+- [[concepts/commons-governance|Commons Governance]] — Shared stewardship
 
 ## References
 

@@ -6,9 +6,9 @@ aliases:
   - bioregional
   - bioregional organizing
 related:
-  - "[[wiki/concepts/cosmolocalism]]"
-  - "[[wiki/concepts/polycentric-governance]]"
-  - "[[wiki/concepts/commons-governance]]"
+  - "[[concepts/cosmolocalism]]"
+  - "[[concepts/polycentric-governance]]"
+  - "[[concepts/commons-governance]]"
 tags:
   - governance
   - ecology
@@ -38,9 +38,9 @@ This is not nostalgia for pre-industrial life. It's a recognition that effective
 
 ## Related Concepts
 
-- [[wiki/concepts/cosmolocalism|Cosmolocalism]] — The local/global balance
-- [[wiki/concepts/polycentric-governance|Polycentric Governance]] — Nested decision-making
-- [[wiki/concepts/commons-governance|Commons Governance]] — Shared resource stewardship
+- [[concepts/cosmolocalism|Cosmolocalism]] — The local/global balance
+- [[concepts/polycentric-governance|Polycentric Governance]] — Nested decision-making
+- [[concepts/commons-governance|Commons Governance]] — Shared resource stewardship
 
 ## References
 

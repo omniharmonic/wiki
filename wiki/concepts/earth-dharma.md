@@ -6,12 +6,12 @@ aliases:
   - "Gaia Dharma"
   - "Planetary Dharma"
 related:
-  - "[[wiki/concepts/interbeing]]"
-  - "[[wiki/concepts/story-of-separation]]"
-  - "[[wiki/concepts/sacred-ecology]]"
-  - "[[wiki/concepts/planetary-initiation]]"
-  - "[[wiki/concepts/the-great-turning]]"
-  - "[[wiki/concepts/bioregionalism]]"
+  - "[[concepts/interbeing]]"
+  - "[[concepts/story-of-separation]]"
+  - "[[concepts/sacred-ecology]]"
+  - "[[concepts/planetary-initiation]]"
+  - "[[concepts/the-great-turning]]"
+  - "[[concepts/bioregionalism]]"
   - "[[awakening-the-earth-dharma-part-i]]"
 tags:
   - earth-dharma
@@ -25,7 +25,7 @@ updated: "2026-06-06"
 
 ## Definition
 
-Earth Dharma is the new-and-ancient story of human beings awakening to their mutual embeddedness within the living whole of Earth and cosmos, and to the right action — the choiceless choice — that flows naturally from that recognition. Drawing the term *dharma* from the Vedic cosmovision, it names what becomes available when awareness matures enough to perceive the harmonic, cyclical [[wiki/concepts/interbeing|interbeing]] of things and to move with that natural order rather than against it. It is not a religion or metaphysical claim but a phenomenological way of being, available to anyone through the direct experience of living within [[wiki/concepts/living-systems|living systems]]. Related namings include Samantha Sweetwater's Gaia Dharma, John Churchill's Planetary Dharma, Sri Aurobindo's gnostic society, and Teilhard de Chardin's noosphere.
+Earth Dharma is the new-and-ancient story of human beings awakening to their mutual embeddedness within the living whole of Earth and cosmos, and to the right action — the choiceless choice — that flows naturally from that recognition. Drawing the term *dharma* from the Vedic cosmovision, it names what becomes available when awareness matures enough to perceive the harmonic, cyclical [[concepts/interbeing|interbeing]] of things and to move with that natural order rather than against it. It is not a religion or metaphysical claim but a phenomenological way of being, available to anyone through the direct experience of living within [[concepts/living-systems|living systems]]. Related namings include Samantha Sweetwater's Gaia Dharma, John Churchill's Planetary Dharma, Sri Aurobindo's gnostic society, and Teilhard de Chardin's noosphere.
 
 ## Karma Becoming Dharma
 

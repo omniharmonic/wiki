@@ -5,12 +5,12 @@ visibility: public
 aliases:
   - "Protocol Libraries"
 related:
-  - "[[wiki/concepts/protocols]]"
-  - "[[wiki/concepts/social-organisms]]"
-  - "[[wiki/concepts/bioregional-knowledge-commons]]"
-  - "[[wiki/concepts/Knowledge Commons]]"
-  - "[[wiki/concepts/commons-governance]]"
-  - "[[wiki/concepts/digital-un-enclosure]]"
+  - "[[concepts/protocols]]"
+  - "[[concepts/social-organisms]]"
+  - "[[concepts/bioregional-knowledge-commons]]"
+  - "[[concepts/Knowledge Commons]]"
+  - "[[concepts/commons-governance]]"
+  - "[[concepts/digital-un-enclosure]]"
   - "[[protocols-of-place]]"
 tags:
   - protocols
@@ -25,7 +25,7 @@ updated: "2026-06-06"
 
 ## Definition
 
-An open protocol library is a living, governable repository of documented, shareable, forkable patterns of interaction -- the social DNA communities need to organize effective responses to crises. Rather than a static archive, it is an integrated layer of community infrastructure where the people documenting and forking [[wiki/concepts/protocols]] are the same people enacting them. The library is the seed bank; the community is the soil.
+An open protocol library is a living, governable repository of documented, shareable, forkable patterns of interaction -- the social DNA communities need to organize effective responses to crises. Rather than a static archive, it is an integrated layer of community infrastructure where the people documenting and forking [[concepts/protocols]] are the same people enacting them. The library is the seed bank; the community is the soil.
 
 ## What Goes In the Library
 
@@ -41,4 +41,4 @@ A repository alone is inert. Scaling beyond isolated communities requires a prot
 
 ## In Benjamin's Work
 
-Benjamin frames open protocol libraries as an ethical mandate in [[protocols-of-place]] -- distributed coordination infrastructure to fill the chasm left by failing centralized institutions. The vision connects to his work on [[wiki/concepts/bioregional-knowledge-commons]] and the broader resilience argument in [[collapse-parallel-societies-bioregional-imperative]].
+Benjamin frames open protocol libraries as an ethical mandate in [[protocols-of-place]] -- distributed coordination infrastructure to fill the chasm left by failing centralized institutions. The vision connects to his work on [[concepts/bioregional-knowledge-commons]] and the broader resilience argument in [[collapse-parallel-societies-bioregional-imperative]].

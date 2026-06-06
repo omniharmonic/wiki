@@ -7,10 +7,10 @@ aliases:
   - "KOI Protocol"
   - "Knowledge Organizational Infrastructure Protocol"
 related:
-  - "[[wiki/concepts/bioregional-knowledge-commons]]"
-  - "[[wiki/concepts/Holonic Nesting]]"
-  - "[[wiki/concepts/collective-intelligence]]"
-  - "[[wiki/concepts/Knowledge Commons]]"
+  - "[[concepts/bioregional-knowledge-commons]]"
+  - "[[concepts/Holonic Nesting]]"
+  - "[[concepts/collective-intelligence]]"
+  - "[[concepts/Knowledge Commons]]"
 tags:
   - knowledge-infrastructure
   - protocol
