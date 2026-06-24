@@ -5,9 +5,10 @@ author: "Benjamin Life"
 visibility: public
 status: published
 publication: "omniharmonic (Substack)"
-url: ""
+url: "https://omniharmonic.substack.com/p/the-ancient-future-at-the-end-of"
+subtitle: "The World After Separation"
 tags: [philosophy, dialectics, capitalism, evolution, complexity, metamodernism, regeneration, ontology, indigenous-wisdom, post-capitalism]
-published: ""
+published: "2026-06-22"
 updated: "2026-06-23"
 description: "A synthesis of Hegelian dialectics, evolutionary biology, complexity science, and Indigenous cosmology arguing that the global techno-capital machine has saturated its possibility space — foreclosing the genuine 'outside' a dialectic of negation needs — and that the only way through is a phase change to a new grammar: a dialectic of integration that holds belonging and freedom at once. The 'ancient future' is the relational world re-entered consciously on the far side of the story of separation."
 aliases: ["The Ancient Future at the End of History - by Benjamin Life"]
