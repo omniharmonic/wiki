@@ -69,6 +69,10 @@ venv/
 *.log
 logs/
 
+# ── WIKI STAGING (don't publish) ─────────────
+# Raw drafts staged for ingest; processed into wiki/ then discarded
+wiki/_inbox/
+
 # ── LEGACY & LOCAL-ONLY ─────────────────────
 # Keep in Drive but don't track in git
 hyperflow/
