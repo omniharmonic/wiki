@@ -4,10 +4,10 @@ type: writing
 author: "Benjamin Life"
 visibility: public
 status: published
-publication: ""
-url: ""
+publication: "omniharmonic (Substack)"
+url: "https://omniharmonic.substack.com/p/when-earth-wakes-up-to-itself"
 tags: [regeneration, ecology, community, bioregionalism, culture, personal, spirituality]
-published: ""
+published: "2025-11-18"
 updated: "2026-02-04"
 description: "A personal reflection on the Design Science Studio experience, exploring how Buckminster Fuller's design science principles, regenerative systems thinking, and a global community of practice catalyzed the integration of art, activism, and systems change into a unified creative calling."
 aliases: ["When Earth Wakes Up to Itself Reflection"]

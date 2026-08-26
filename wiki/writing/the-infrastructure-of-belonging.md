@@ -5,9 +5,9 @@ author: "Benjamin Life"
 visibility: public
 status: published
 publication: "omniharmonic (Substack)"
-url: ""
+url: "https://omniharmonic.substack.com/p/the-infrastructure-of-belonging"
 tags: [bioregionalism, governance, blockchain, commons, network-nations, ethereum, polycentric, cosmolocalism, sovereignty, localism, opencivics]
-published: ""
+published: "2026-02-22"
 updated: "2026-03-09"
 description: "A vision for cyber-physical bioregional governance infrastructure — how blockchain-enabled 'plurality of addressable space' can allow overlapping, self-governing communities to coordinate around place without centralized control or colonial map-making."
 aliases: ["The Infrastructure of Belonging - by Benjamin Life"]

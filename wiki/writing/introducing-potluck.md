@@ -7,7 +7,7 @@ status: published
 publication: "omniharmonic (Substack)"
 url: "https://omniharmonic.substack.com/p/introducing-potluck"
 tags: [open-source, coordination, community, hyperlocal, civic-tech, public-goods]
-published: ""
+published: "2026-03-17"
 updated: "2026-03-23"
 description: "Announcing Potluck, a free open-source coordination tool for communities that already trust each other — a simple needs-and-offers board that sidesteps the trust infrastructure problem by assuming trust is already present."
 aliases: ["Introducing Potluck"]

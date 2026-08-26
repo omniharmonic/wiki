@@ -5,9 +5,9 @@ author: "Benjamin Life"
 visibility: public
 status: published
 publication: "omniharmonic (Substack)"
-url: ""
+url: "https://omniharmonic.substack.com/p/a-regenerative-accelerationist-manifesto"
 tags: [post-capitalism, capitalism, regeneration, technology, web3, ethereum, cosmolocalism, bioregionalism, commons, ecology, economics, philosophy]
-published: ""
+published: "2026-01-20"
 updated: "2026-02-04"
 description: "A manifesto proposing regenerative accelerationism (re/acc) as a framework for accelerating the transition to post-capitalist, regenerative civilization by redirecting capitalism's self-amplifying dynamics toward life-affirming feedback loops rooted in community, ecology, and open protocols."
 aliases: ["A Regenerative Accelerationist Manifesto - by Benjamin Life"]

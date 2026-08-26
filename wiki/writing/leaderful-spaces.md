@@ -4,10 +4,10 @@ type: writing
 author: "Benjamin Life"
 visibility: public
 status: published
-publication: ""
-url: ""
+publication: "omniharmonic (Substack)"
+url: "https://omniharmonic.substack.com/p/leaderful-spaces"
 tags: [governance, community, culture, philosophy, ecology]
-published: ""
+published: "2025-11-25"
 updated: "2026-02-04"
 description: "An exploration of ecological organizing that moves beyond both hierarchy and flat process, cultivating 'leaderful' spaces where authority flows dynamically among multiple centers according to context, need, and genuine capacity."
 aliases: ["Leaderful Spaces"]

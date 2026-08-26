@@ -4,8 +4,8 @@ type: writing
 author: "Benjamin Life"
 visibility: public
 status: published
-publication: ""
-url: ""
+publication: "omniharmonic (Substack)"
+url: "https://omniharmonic.substack.com/p/the-christ-meme"
 tags: [spirituality, philosophy, decolonization, culture]
 published: "2025-12-25"
 updated: "2026-02-04"

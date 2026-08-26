@@ -4,10 +4,10 @@ type: writing
 author: "Benjamin Life"
 visibility: public
 status: published
-publication: ""
-url: ""
+publication: "omniharmonic (Substack)"
+url: "https://omniharmonic.substack.com/p/dance-to-remember"
 tags: [spirituality, decolonization, personal, culture, philosophy, identity]
-published: ""
+published: "2025-11-28"
 updated: "2026-02-04"
 description: "A deeply personal account of somatic liberation through dance, exploring how embodied movement practices offer a path of decolonization that works through the body itself -- reclaiming the birthright of wholeness without appropriating others' ceremonies."
 aliases: ["Dance To Remember (1)"]

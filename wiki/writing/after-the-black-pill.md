@@ -5,9 +5,9 @@ author: "Benjamin Life"
 visibility: public
 status: published
 publication: "omniharmonic (Substack)"
-url: ""
+url: "https://omniharmonic.substack.com/p/after-the-black-pill"
 tags: [politics, power, epstein, collapse, black-pill, accountability, community, sovereignty, systems-thinking]
-published: ""
+published: "2026-02-04"
 updated: "2026-03-09"
 description: "A systems analysis of what the Epstein revelations reveal about the structure of power, the simultaneous collapse of liberal and MAGA narratives, and what remains possible after the floor gives way."
 aliases: ["After The Black Pill - by Benjamin Life - omniharmonic"]

@@ -7,7 +7,7 @@ status: published
 publication: "omniharmonic (Substack)"
 url: "https://dialecticaltopology.xyz"
 tags: [dialogue, sensemaking, ai, meaning-crisis, epistemology, worldview, philosophy, dialectical-topology, collective-intelligence]
-published: ""
+published: "2026-03-03"
 updated: "2026-03-09"
 description: "A meta-analysis of the Aubrey Marcus / John Demartini dialogue on evil, using Dialectical Topology — a multi-lens AI sensemaking framework — to reveal the deep worldview divergences, temporal domain confusions, and missed opportunities for synthesis."
 aliases: ["For now we see through a glass, darkly - by Benjamin Life"]

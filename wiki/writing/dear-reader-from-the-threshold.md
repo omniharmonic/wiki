@@ -5,9 +5,9 @@ author: "Benjamin Life"
 visibility: public
 status: published
 publication: "omniharmonic (Substack)"
-url: ""
+url: "https://omniharmonic.substack.com/p/dear-reader-from-the-threshold"
 tags: [omniharmonic, introduction, regeneration, transition, writing, ai, acceleration, bioregionalism, personal]
-published: ""
+published: "2026-02-15"
 updated: "2026-03-09"
 description: "An introductory letter to readers of omniharmonic — who Benjamin is, what the publication is for, and a transparent account of how he writes with AI in service of the great transition."
 aliases: ["Dear Reader, From the Threshold - by Benjamin Life"]

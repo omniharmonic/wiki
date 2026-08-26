@@ -5,9 +5,9 @@ author: "Benjamin Life"
 visibility: public
 status: published
 publication: "omniharmonic (Substack)"
-url: ""
+url: "https://omniharmonic.substack.com/p/fork-you"
 tags: [governance, commons, polycentric-governance, ethereum, web3, civic-innovation, bioregionalism, democracy, economics]
-published: ""
+published: "2025-11-16"
 updated: "2026-02-04"
 description: "A case for functional pluralism in organizational design, arguing that strategic divergence and forking — enabled by quadratic voting and funding mechanisms — are features rather than bugs, allowing networks to explore multiple approaches in parallel like natural ecosystems."
 aliases: ["Fork You! - by Benjamin Life - omniharmonic"]

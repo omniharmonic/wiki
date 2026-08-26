@@ -5,9 +5,9 @@ author: "Benjamin Life"
 visibility: public
 status: published
 publication: "omniharmonic (Substack)"
-url: ""
+url: "https://omniharmonic.substack.com/p/compost-capital-or-die"
 tags: [economics, post-capitalism, commons, regeneration, capitalism, governance, community, well-being-economy]
-published: ""
+published: "2026-01-05"
 updated: "2026-02-04"
 description: "An invitation to wealth holders to recognize that systemic health is the foundation of long-term prosperity, proposing 'compost capital' as a framework for transforming extractive wealth into regenerative investment that serves both self-interest and collective wellbeing."
 aliases: ["Compost Capital or Die - by Benjamin Life - omniharmonic"]

@@ -5,9 +5,9 @@ author: "Benjamin Life"
 visibility: public
 status: published
 publication: "omniharmonic (Substack)"
-url: ""
+url: "https://omniharmonic.substack.com/p/transhumanism-wetiko-and-the-parasites"
 tags: [transhumanism, spirituality, philosophy, capitalism, technology, ai, decolonization, ecology, culture]
-published: ""
+published: "2026-01-11"
 updated: "2026-02-04"
 description: "A sweeping philosophical essay tracing the intellectual genealogy from Nick Land's accelerationism through Peter Thiel's apocalyptic theology to Elon Musk's technological messianism, diagnosing them through the Indigenous concept of wetiko — the cannibal spirit — and articulating an alternative worldview rooted in interbeing and ecological stewardship."
 aliases: ["Transhumanism, Wetiko, and the Parasites Consuming Our Future"]
