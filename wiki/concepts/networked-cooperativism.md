@@ -15,7 +15,7 @@ related:
 tags:
   - networked-cooperativism
 created: "2026-06-06"
-updated: "2026-06-06"
+updated: "2026-08-26"
 ---
 
 # Networked Cooperativism
@@ -47,3 +47,7 @@ Networked cooperativism borrows capitalism's most potent mechanism — compoundi
 ## In Benjamin's Work
 
 In [[upward-spiral-economics]], Benjamin advances the networked cooperative as the *primary structural mechanism* capable of operationalizing relational value at the scale required to compete with extraction. He argues that only through networked cooperativism can [[concepts/bioregional-finance|bioregional economies]] hope to outcompete extractive market pressure — and calls for cooperative incubators (citing the BioFi Project and Open Future Coalition) that nurture entire cooperative ecosystems, not just individual ventures.
+
+## Further Reading
+
+- [[writing/an-introduction-to-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]

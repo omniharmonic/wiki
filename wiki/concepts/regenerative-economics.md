@@ -5,7 +5,7 @@ visibility: public
 tags: [economics, regeneration, systems]
 aliases: [regenerative economy]
 related: [regeneration, regenerative-finance, well-being-economy, circular-economy, living-systems]
-updated: "2026-02-04"
+updated: "2026-08-26"
 ---
 
 # Regenerative Economics
@@ -23,3 +23,4 @@ In practice, regenerative economics manifests through [[community-land-trusts]] 
 - [[writing/compost-capital-or-die|Compost Capital or Die]]
 - [[writing/on-value|On Value]]
 - [[writing/a-regenerative-accelerationist-manifesto|A Regenerative Accelerationist Manifesto]]
+- [[writing/an-introduction-to-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]

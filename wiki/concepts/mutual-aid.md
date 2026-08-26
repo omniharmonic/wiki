@@ -15,7 +15,7 @@ related:
 tags:
   - mutual-aid
 created: "2026-06-06"
-updated: "2026-06-06"
+updated: "2026-08-26"
 ---
 
 # Mutual Aid
@@ -48,3 +48,7 @@ Two structures amplify mutual aid without bureaucratizing it. First, **open prot
 ## In Benjamin's Work
 
 Mutual aid is a throughline across Benjamin's writing. [[protocols-of-place]] treats it as the relational coordination that keeps communities alive when centralized systems collapse, arguing we have an ethical mandate to build the protocol infrastructure that amplifies it. [[upward-spiral-economics]] frames the cooperative as mutual aid given economic form — the structural basis of an economy oriented toward shared prosperity.
+
+## Further Reading
+
+- [[writing/an-introduction-to-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]

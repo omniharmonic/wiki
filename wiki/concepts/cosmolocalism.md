@@ -13,7 +13,7 @@ tags:
   - coordination
   - design-principle
 created: "2026-02-03"
-updated: "2026-02-03"
+updated: "2026-08-26"
 ---
 
 # Cosmolocalism
@@ -46,3 +46,7 @@ This is the organizational logic behind federated knowledge systems like OPAL â€
 
 - Jose Ramos, *Cosmolocalism* (2021)
 - Michel Bauwens & Vasilis Kostakis, *Peer to Peer: The Commons Manifesto* (2019)
+
+## Further Reading
+
+- [[writing/an-introduction-to-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]

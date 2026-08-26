@@ -14,7 +14,7 @@ related:
 tags:
   - local-currency
 created: "2026-06-06"
-updated: "2026-06-06"
+updated: "2026-08-26"
 ---
 
 # Local Currency
@@ -46,3 +46,7 @@ By keeping exchange media within the community, local currency reinforces the up
 ## In Benjamin's Work
 
 In [[upward-spiral-economics]], Benjamin frames local currency as a buffer and a piece of critical infrastructure for maturing solidarity economies — a way for [[concepts/localism|place-rooted]] communities to insulate themselves from a destabilizing global financial system and to ground money once again in real, relational productive capacity.
+
+## Further Reading
+
+- [[writing/an-introduction-to-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]

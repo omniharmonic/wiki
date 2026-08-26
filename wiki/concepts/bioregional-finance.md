@@ -5,7 +5,7 @@ visibility: public
 tags: [economics, finance, bioregionalism]
 aliases: [bioregional financing, place-based finance]
 related: [regenerative-finance, bioregionalism, ethereum-localism, community-land-trusts, regenerative-economics]
-updated: "2026-02-04"
+updated: "2026-08-26"
 ---
 
 # Bioregional Finance
@@ -19,3 +19,4 @@ Bioregional finance represents the place-based expression of [[regenerative-fina
 ## Further Reading
 
 - [[writing/a-regenerative-accelerationist-manifesto|A Regenerative Accelerationist Manifesto]]
+- [[writing/an-introduction-to-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]

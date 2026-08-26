@@ -5,7 +5,7 @@ visibility: public
 tags: [economics, decolonization, indigenous-knowledge, governance]
 aliases: [sumak kawsay, vivir bien, good living]
 related: [well-being-economy, decolonization, rights-of-nature, degrowth, interbeing]
-updated: "2026-02-04"
+updated: "2026-08-26"
 ---
 
 # Buen Vivir
@@ -19,3 +19,4 @@ Buen Vivir connects to the [[well-being-economy]] as an indigenous philosophical
 ## Further Reading
 
 - [[writing/the-emergence-of-the-well-being-economy|The Emergence of the Well-Being Economy]]
+- [[writing/an-introduction-to-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]

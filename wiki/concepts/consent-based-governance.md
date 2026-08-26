@@ -5,7 +5,7 @@ visibility: public
 tags: [governance, democracy, organizing]
 aliases: [consent, consent-based decision-making, consent process]
 related: [participatory-democracy, citizen-assemblies, collective-intelligence, commons-governance]
-updated: "2026-02-04"
+updated: "2026-08-26"
 ---
 
 # Consent-Based Governance
@@ -19,3 +19,4 @@ Consent-based governance connects to [[participatory-democracy]] as a practical 
 ## Further Reading
 
 - [[writing/leaderful-spaces|Leaderful Spaces]]
+- [[writing/an-introduction-to-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]

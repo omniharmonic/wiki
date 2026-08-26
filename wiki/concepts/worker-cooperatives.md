@@ -5,7 +5,7 @@ visibility: public
 tags: [economics, democracy, organization]
 aliases: [worker co-ops, worker-owned cooperatives]
 related: [economic-democracy, platform-cooperatives, dual-power, community-land-trusts, regenerative-economics]
-updated: "2026-02-04"
+updated: "2026-08-26"
 ---
 
 # Worker Cooperatives
@@ -22,3 +22,4 @@ In the context of systems change, worker cooperatives are a key expression of [[
 - [[writing/a-political-rise-manifesto|A Political Rise Manifesto]]
 - [[writing/on-value|On Value]]
 - [[writing/post-capitalist-venture-capital-thesis|A Post-Capitalist Venture Capital Thesis]]
+- [[writing/an-introduction-to-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]

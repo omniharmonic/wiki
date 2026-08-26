@@ -5,7 +5,7 @@ visibility: public
 tags: [governance, design-principle, coordination]
 aliases: [principle of subsidiarity, lowest effective level]
 related: [polycentric-governance, bioregionalism, participatory-democracy, democratic-confederalism, recursive-sovereignty]
-updated: "2026-02-04"
+updated: "2026-08-26"
 ---
 
 # Subsidiarity
@@ -23,3 +23,4 @@ Subsidiarity is a foundational concept for [[bioregionalism]], which argues that
 - [[writing/fork-you|Fork You!]]
 - [[writing/a-political-rise-manifesto|A Political Rise Manifesto]]
 - [[writing/bioregional-coordination-sacred-work|Bioregional Coordination: Sacred Work in a Time Between Worlds]]
+- [[writing/an-introduction-to-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]

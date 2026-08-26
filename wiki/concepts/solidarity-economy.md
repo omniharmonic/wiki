@@ -15,7 +15,7 @@ related:
 tags:
   - solidarity-economy
 created: "2026-06-06"
-updated: "2026-06-06"
+updated: "2026-08-26"
 ---
 
 # Solidarity Economy
@@ -46,3 +46,7 @@ When a multinational enters a community it functions like a straw, channeling va
 ## In Benjamin's Work
 
 The solidarity economy is the central frame of [[upward-spiral-economics]], which synthesizes [[concepts/regenerative-economics|regenerative economics]] with bioregional re-localization and proposes the networked cooperative as the structural mechanism capable of operationalizing relational value at a scale that can compete with extraction. Benjamin sees solidarity economies as upward spirals — self-reinforcing cycles of mutual benefit that lift communities out of precarity through the radical, ancient, practical strategy of genuinely caring about each other's prosperity.
+
+## Further Reading
+
+- [[writing/an-introduction-to-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]

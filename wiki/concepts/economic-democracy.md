@@ -5,7 +5,7 @@ visibility: public
 tags: [economics, democracy, governance]
 aliases: [democratic economy, workplace democracy]
 related: [worker-cooperatives, community-land-trusts, participatory-democracy, well-being-economy, platform-cooperatives]
-updated: "2026-02-04"
+updated: "2026-08-26"
 ---
 
 # Economic Democracy
@@ -22,3 +22,4 @@ Economic democracy is the economic expression of [[participatory-democracy]] and
 - [[writing/on-value|On Value]]
 - [[writing/when-democracy-dies|When Democracy Dies]]
 - [[writing/a-political-rise-manifesto|A Political Rise Manifesto]]
+- [[writing/an-introduction-to-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]

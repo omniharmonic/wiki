@@ -9,6 +9,7 @@ title: Welcome
 ## Explore
 
 ### Writing
+- [[writing/an-introduction-to-bioregional-economics|An Introduction to Bioregional Economics (Part I)]] — Design principles of a bioregional economy: bounded plural currencies, federated cooperative supply chains, and the four pillars of a closed-loop economy within carrying capacity
 - [[writing/the-ancient-future-at-the-end-of-history|The Ancient Future at the End of History]] — The world after separation: why the saturated grammar of modernity gives way not to another revolution but to a phase change toward integration
 - [[writing/the-solarpunk-revolution-is-inevitable|The Solarpunk Revolution Is Inevitable]] — How AI's acceleration of capitalism's contradictions makes deep change inevitable
 - [[writing/sovereignty-is-solidarity|Sovereignty Is Solidarity]] — Why the sovereign self and the solidarity of the collective are one phenomenon
@@ -33,7 +34,7 @@ Browse all essays in the [[writing/|Writing]] section.
 - [[concepts/meta-crisis|Meta-Crisis]] — The interconnected web of civilizational crises
 - [[concepts/interbeing|Interbeing]] — Fundamental interconnectedness of all phenomena
 
-Browse all 132 concepts in the [[concepts/|Concepts]] section.
+Browse all 144 concepts in the [[concepts/|Concepts]] section.
 
 ### Projects
 - [[projects/opencivics|OpenCivics]] — Civic innovation and participatory democracy

@@ -14,7 +14,7 @@ tags:
   - ecology
   - place-based
 created: "2026-02-03"
-updated: "2026-02-03"
+updated: "2026-08-26"
 ---
 
 # Bioregionalism
@@ -46,3 +46,7 @@ This is not nostalgia for pre-industrial life. It's a recognition that effective
 
 - Kirkpatrick Sale, *Dwellers in the Land* (1985)
 - Peter Berg, *Reinhabiting a Separate Country* (1978)
+
+## Further Reading
+
+- [[writing/an-introduction-to-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]

@@ -5,7 +5,7 @@ visibility: public
 tags: [economics, ecology, planetary-boundaries]
 aliases: [doughnut model, Kate Raworth's doughnut]
 related: [well-being-economy, regenerative-economics, degrowth, rights-of-nature]
-updated: "2026-02-04"
+updated: "2026-08-26"
 ---
 
 # Doughnut Economics
@@ -22,3 +22,4 @@ Doughnut economics connects to the [[well-being-economy]] as a complementary fra
 - [[writing/beyond-narrow-optimization|Beyond Narrow Optimization]]
 - [[writing/civilization-redesign|Civilization Redesign]]
 - [[writing/a-political-rise-manifesto|A Political Rise Manifesto]]
+- [[writing/an-introduction-to-bioregional-economics|An Introduction to Bioregional Economics (Part I)]]
