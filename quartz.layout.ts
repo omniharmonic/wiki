@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       Substack: "https://omniharmonic.substack.com",
       GitHub: "https://github.com/omniharmonic",
-      OpenCivics: "https://www.opencivics.co",
+      Omniharmonic: "https://www.omniharmonic.com",
     },
   }),
 }

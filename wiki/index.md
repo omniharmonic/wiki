@@ -4,7 +4,7 @@ title: Welcome
 
 > *"It's not the note you play that's the wrong note. It's the note you play afterwards that makes it right or wrong."* — Miles Davis
 
-**omniharmonic** is a research and writing project by [[about/index|Benjamin Life]] exploring how fragmented modern systems might achieve polyphonic coherence — not the imposed harmony of a conductor forcing consensus, but the emergent harmony of a jazz ensemble where each player's improvisations create something none could achieve alone. This wiki is its public knowledge base: a growing library of essays, interconnected concept pages, and project documentation spanning bioregional governance, regenerative economics, cosmolocal production, and the cultural shifts that make them possible.
+**omniharmonic** is a research and writing project by [[about/index|Benjamin Life]] exploring how fragmented modern systems might achieve polyphonic coherence — not the imposed harmony of a conductor forcing consensus, but the emergent harmony of a jazz ensemble where each player's improvisations create something none could achieve alone. This wiki is its public knowledge base: a growing library of essays and interconnected concept pages spanning bioregional governance, regenerative economics, cosmolocal production, and the cultural shifts that make them possible.
 
 ## Explore
 
@@ -35,11 +35,6 @@ Browse all essays in the [[writing/|Writing]] section.
 - [[concepts/interbeing|Interbeing]] — Fundamental interconnectedness of all phenomena
 
 Browse all 144 concepts in the [[concepts/|Concepts]] section.
-
-### Projects
-- [[projects/opencivics|OpenCivics]] — Civic innovation and participatory democracy
-- [[projects/localism-fund|Localism Fund]] — Participatory grant funding for place-based work
-- [[projects/regen-commons|Regen Commons]] — Regenerative commons coordination
 
 ### About
 - [[about/index|About]] — omniharmonic and Benjamin Life

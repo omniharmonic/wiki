@@ -14,7 +14,7 @@ This wiki is a living knowledge base — a public-facing subset of a larger pers
 - **Processing**: [OPAL](https://github.com/omniharmonic) — AI-powered knowledge extraction and organization
 - **Publishing**: [Quartz](https://quartz.jzhao.xyz/) — static site generator with knowledge graph visualization
 - **Search**: Full-text search with semantic capabilities
-- **Graph**: Interactive relationship visualization connecting concepts, projects, and research
+- **Graph**: Interactive relationship visualization connecting concepts, essays, and research
 
 ## Philosophy
 
