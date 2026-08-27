@@ -34,7 +34,7 @@ omniharmonic emphasizes reinhabitation — perceiving the living systems we're e
 
 ## This Wiki
 
-This wiki is the public knowledge base for omniharmonic — a companion to the [Substack](https://omniharmonic.substack.com) and [main site](https://www.omniharmonic.com). It contains the full archive of [[writing/|essays]], a growing library of [[concepts/|concept]] pages exploring the ideas within them, and documentation of active [[projects/|projects]].
+This wiki is the public knowledge base for omniharmonic — a companion to the [Substack](https://omniharmonic.substack.com) and [main site](https://www.omniharmonic.com). It contains the full archive of [[writing/|essays]] and a growing library of [[concepts/|concept]] pages exploring the ideas within them.
 
 The wiki is a living document. Concepts link to essays, essays link to concepts, and the knowledge graph grows with each piece of writing.
 
